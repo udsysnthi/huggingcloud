@@ -372,7 +372,7 @@ sections:
         type: FeaturedItem
       - title: Amazing Place
         tagline: Google
-        subtitle: 'Jane Walters, Company'
+        subtitle: joe Rodgers
         text: >+
           Amazing place, simple, cool rooms and great food. we stayed for 2
           nights which I would absolutely recommend.
