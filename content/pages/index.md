@@ -338,7 +338,7 @@ sections:
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Booking.com
-        subtitle: 'Maria Walters, Company'
+        subtitle: Sevda
         text: >+
           I would say it was one of my favorite places to stay in Sri Lanka in
           terms of everything. We went to Nallathanniya to go to Adam's Peek so
