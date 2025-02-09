@@ -314,7 +314,7 @@ sections:
           and team for helping us so much during our stay.
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/caption (1).jpg
           altText: Maria Walters
           styles:
             self:
