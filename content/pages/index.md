@@ -269,10 +269,20 @@ sections:
       - title: Absolutely perfect!
         tagline: Trip Advisor
         subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          This is the perfect place to stay to hike Adam’s Peak AND explore
+          Nallathanniya. Do yourself a favor and book at LEAST two nights. We
+          rearranged our plans to stay a second night after hiking Adam’s Peak
+          and one of the owners took us on the most epic and beautiful tour of
+          the tea plantations and waterfalls in the area. A highlight of our
+          trip and views that rival the train ride to Ella. You can see their
+          reviews for tours by searching Hugging Clouds Tours. Food was
+          excellent, especially the Lumprais. Breakfast stellar. Staff amazing.
+          They went above and beyond to help us with a train ticket issue as
+          well. Amazing customer service. We were sad to leave, but look forward
+          to coming back.
+
+
         image:
           url: /images/caption (2).jpg
           altText: John Doe
