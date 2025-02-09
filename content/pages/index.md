@@ -409,7 +409,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Our stay at Hugging Clouds was fantastic
-        tagline: Testimonial 6
+        tagline: Google
         subtitle: Tyra Simons
         text: >+
           The 500m proximity to Adam’s peak made it the perfect start point for
