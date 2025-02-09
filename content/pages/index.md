@@ -96,7 +96,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Cozy & Comfortable Stay
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >+
           **Hugging Clouds Guest** offers a cozy retreat surrounded by
           breathtaking landscapes. Whether you're looking for a peaceful escape
