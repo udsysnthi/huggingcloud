@@ -23,7 +23,8 @@ sections:
     actions:
       - label: Book Now
         altText: ''
-        url: /
+        url: >-
+          /https://www.booking.com/hotel/lk/hugging-clouds.en-gb.html?aid=356980&label=gog235jc-1FCAsohQFCDmh1Z2dpbmctY2xvdWRzSDNYA2jJAYgBAZgBCbgBF8gBDNgBAegBAfgBDIgCAagCA7gCooChvQbAAgHSAiQxYTNkOWQ0Mi0zMmI1LTRkNmYtOTBlYy0yN2NhMGE2MWYyYTjYAgbgAgE&sid=0ac8f8703963448158a7581d86f98c5d&dest_id=900052927&dest_type=city&dist=0&group_adults=1&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=1&req_children=0&room1=A&sb_price_type=total&sr_order=popularity&srepoch=1739079728&srpvid=adca2812ec990259&type=total&ucfs=1&
         showIcon: false
         icon: arrowRight
         iconPosition: right
