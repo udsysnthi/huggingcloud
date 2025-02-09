@@ -8,10 +8,19 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Nestled in the heart of Adam's Peak (Sri Padhaya), Hugging Clouds Guest
+      offers a cozy and comfortable stay for travelers looking to explore the
+      beauty of our region. Whether you're here for a relaxing getaway or an
+      adventure-filled vacation, we provide warm hospitality, modern amenities,
+      and personalized service to make your stay truly memorable. 
+
+      we also provide unforgettable tour experiences! Our guided tours allow you
+      to explore hidden gems, breathtaking landscapes, and cultural treasures
+      with expert local guides.
+
+
+
     actions:
       - label: Get started
         altText: ''
