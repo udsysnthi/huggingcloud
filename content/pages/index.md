@@ -97,13 +97,13 @@ sections:
               borderRadius: x-large
       - title: Cozy & Comfortable Stay
         subtitle: ''
-        text: >+
+        text: >
           **Hugging Clouds Guest** offers a cozy retreat surrounded by
           breathtaking landscapes. Whether you're looking for a peaceful escape
           or an exciting journey, we provide warm hospitality, comfortable
           accommodations, and expertly guided tours to help you experience the
-          best of our region.
-
+          best of our
+          region.![](/images/299980802_3039583539665411_3325121949440957334_n.jpg)
         image:
           altText: Featured icon two
           elementId: ''
