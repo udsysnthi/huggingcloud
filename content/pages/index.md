@@ -7,7 +7,7 @@ sections:
       text: WELCOME TO HUGGING CLOUDS
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Welcome
     text: >+
       <div style="text-align: center">Nestled in the heart of Adam's Peak (Sri
       Padhaya), Hugging Clouds Guest offers a cozy and comfortable stay for
