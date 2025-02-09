@@ -97,10 +97,13 @@ sections:
               borderRadius: x-large
       - title: Cozy & Comfortable Stay
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **Hugging Clouds Guest** offers a cozy retreat surrounded by
+          breathtaking landscapes. Whether you're looking for a peaceful escape
+          or an exciting journey, we provide warm hospitality, comfortable
+          accommodations, and expertly guided tours to help you experience the
+          best of our region.
+
         image:
           altText: Featured icon two
           elementId: ''
