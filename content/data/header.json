@@ -41,7 +41,7 @@
         {
             "type": "Button",
             "label": "CONTACT",
-            "altText": "",
+            "altText": "CONTACT",
             "url": "/contact",
             "showIcon": false,
             "icon": "",
