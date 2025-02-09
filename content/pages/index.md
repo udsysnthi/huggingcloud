@@ -21,7 +21,7 @@ sections:
       with expert local guides.</div>
 
     actions:
-      - label: Get started
+      - label: Book Now
         altText: ''
         url: /
         showIcon: false
