@@ -370,9 +370,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+      - title: Amazing Place
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
