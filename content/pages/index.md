@@ -235,7 +235,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: Excellent food and great accommodation
-        tagline: Testimonial 1
+        tagline: Trip Advisor
         subtitle: Elise C
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
