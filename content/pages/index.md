@@ -267,7 +267,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Absolutely perfect!
-        tagline: Testimonial 2
+        tagline: Trip Advisor
         subtitle: 'John Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
