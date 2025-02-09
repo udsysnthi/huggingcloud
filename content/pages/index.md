@@ -66,7 +66,7 @@ sections:
     subtitle: Why Choose Hugging Clouds Guest?
     items:
       - type: FeaturedItem
-        title: Adam's Peak (Sri Padhaya)
+        title: Adam's Peak (Sri Pada)
         subtitle: ''
         text: >+
           Adam’s Peak, also known as **Sri Pada**, is one of Sri Lanka’s most
