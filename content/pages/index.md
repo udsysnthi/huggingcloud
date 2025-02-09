@@ -153,7 +153,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Here we go...
+      label: ''
       color: text-primary
       styles:
         self:
