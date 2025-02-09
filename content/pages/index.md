@@ -371,7 +371,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Amazing Place
-        tagline: Testimonial 5
+        tagline: Google
         subtitle: 'Jane Walters, Company'
         text: >+
           Amazing place, simple, cool rooms and great food. we stayed for 2
