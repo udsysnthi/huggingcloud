@@ -130,7 +130,7 @@ sections:
           breathtaking landscapes surrounding **Adam’s Peak**. Whether you're
           seeking a thrilling hike, a cultural journey, or a peaceful nature
           escape, All Around the Sri Lanka our expert-guided tours ensure a
-          memorable and immersive experience.
+          memorable and immersive experience.![](/images/caption%20\(3\).jpg) 
         image:
           altText: Featured icon three
           elementId: ''
