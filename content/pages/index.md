@@ -339,10 +339,18 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Booking.com
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          I would say it was one of my favorite places to stay in Sri Lanka in
+          terms of everything. We went to Nallathanniya to go to Adam's Peek so
+          we weren't expecting much but the owners and the place exceeded our
+          expectations. The place is old and looks like it's not finished yet
+          but it was really clean and enough for us. They helped us with
+          lighting for the night hike and prepared our breakfast (Sandwiches) in
+          advance for the summit. The sandwiches were really tasty and fresh. We
+          didn't want to search for food on Google in the evening so we tried it
+          from the hotel and it was great. I would definitely recommend eating
+          here instead of eating out. Their food is fresh and delicious.
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
