@@ -426,7 +426,7 @@ sections:
           waterfall tour with Madu!
 
         image:
-          url: /images/img-placeholder-dark.png
+          url: /images/408389908_843092264486845_5900627026061935415_n.jpg
           altText: Jane Doe
           styles:
             self:
