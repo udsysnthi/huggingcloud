@@ -103,7 +103,7 @@ sections:
           or an exciting journey, we provide warm hospitality, comfortable
           accommodations, and expertly guided tours to help you experience the
           best of our
-          region.![](/images/299980802_3039583539665411_3325121949440957334_n.jpg)
+          region.![](/images/298608681_3036548676635564_8303927108053269718_n.jpg)
         image:
           altText: Featured icon two
           elementId: ''
