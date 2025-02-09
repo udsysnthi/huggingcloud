@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: HUGGING CLOUDS
+      text: HUGGING CLOUDS Guest
       color: text-dark
       type: TitleBlock
     subtitle: Welcome
