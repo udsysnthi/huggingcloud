@@ -307,10 +307,12 @@ sections:
       - title: Best place to stay for Adam’s Peak without a doubt!
         tagline: Booking.com
         subtitle: Ellie
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Great location, big spacious and clean rooms.
+
+          Great priced restaurant and fantastic staff. Big shout out to Madhu
+          and team for helping us so much during our stay.
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
