@@ -124,13 +124,12 @@ sections:
         type: FeaturedItem
       - title: Tours
         subtitle: ''
-        text: >+
+        text: >
           **Hugging Clouds Tours**, we offer unforgettable adventures in the
           breathtaking landscapes surrounding **Adam’s Peak**. Whether you're
           seeking a thrilling hike, a cultural journey, or a peaceful nature
-          escape, our expert-guided tours ensure a memorable and immersive
-          experience.
-
+          escape, All Around the Sri Lanka our expert-guided tours ensure a
+          memorable and immersive experience.
         image:
           altText: Featured icon three
           elementId: ''
