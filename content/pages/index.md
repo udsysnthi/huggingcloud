@@ -306,7 +306,7 @@ sections:
         type: FeaturedItem
       - title: Best place to stay for Adam’s Peak without a doubt!
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: Ellie
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
