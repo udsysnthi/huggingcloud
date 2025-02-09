@@ -9,17 +9,16 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >+
-      Nestled in the heart of Adam's Peak (Sri Padhaya), Hugging Clouds Guest
-      offers a cozy and comfortable stay for travelers looking to explore the
-      beauty of our region. Whether you're here for a relaxing getaway or an
-      adventure-filled vacation, we provide warm hospitality, modern amenities,
-      and personalized service to make your stay truly memorable. 
+      <div style="text-align: center">Nestled in the heart of Adam's Peak (Sri
+      Padhaya), Hugging Clouds Guest offers a cozy and comfortable stay for
+      travelers looking to explore the beauty of our region. Whether you're here
+      for a relaxing getaway or an adventure-filled vacation, we provide warm
+      hospitality, modern amenities, and personalized service to make your stay
+      truly memorable.
 
       we also provide unforgettable tour experiences! Our guided tours allow you
       to explore hidden gems, breathtaking landscapes, and cultural treasures
-      with expert local guides.
-
-
+      with expert local guides.</div>
 
     actions:
       - label: Get started
