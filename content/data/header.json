@@ -41,7 +41,7 @@
         {
             "type": "Link",
             "label": "CONTACT",
-            "altText": "",
+            "altText": "CONTACT",
             "url": "/contact",
             "showIcon": false,
             "icon": "arrowRight",
