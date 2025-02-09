@@ -350,7 +350,7 @@ sections:
           here instead of eating out. Their food is fresh and delicious.
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/caption (1).jpg
           altText: Maria Walters
           styles:
             self:
