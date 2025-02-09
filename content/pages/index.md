@@ -237,10 +237,14 @@ sections:
       - title: Excellent food and great accommodation
         tagline: Trip Advisor
         subtitle: Elise C
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Lovely people, excellent food, and clean accommodation very close to
+          Adam’s Peak. Gave us lots of advice on our hike. Great to come back
+          and shower and have a yummy breakfast after the beautiful hike. Highly
+          recommend for anyone looking for accommodation or even just a meal in
+          this area.
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
