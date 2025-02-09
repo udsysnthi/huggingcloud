@@ -236,7 +236,7 @@ sections:
     items:
       - title: Excellent food and great accommodation
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: Elise C
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
