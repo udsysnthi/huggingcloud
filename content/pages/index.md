@@ -268,7 +268,7 @@ sections:
         type: FeaturedItem
       - title: Absolutely perfect!
         tagline: Trip Advisor
-        subtitle: Sarah
+        subtitle: Sarah B
         text: >+
           This is the perfect place to stay to hike Adam’s Peak AND explore
           Nallathanniya. Do yourself a favor and book at LEAST two nights. We
