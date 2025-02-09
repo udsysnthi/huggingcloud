@@ -334,7 +334,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: Perfect
         tagline: Booking.com
         subtitle: Sevda
         text: >+
