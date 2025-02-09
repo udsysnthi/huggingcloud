@@ -388,7 +388,7 @@ sections:
           ourselves.
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/unnamed.jpg
           altText: Maria Walters
           styles:
             self:
