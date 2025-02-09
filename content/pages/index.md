@@ -193,7 +193,7 @@ sections:
 
     actions: []
     media:
-      title: Title of the video
+      title: 'Water Falls '
       url: 'https://youtu.be/iqt-aJfwwRw?si=Gd7iuimZt1D2Vv1D'
       autoplay: true
       loop: true
