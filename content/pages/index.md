@@ -224,7 +224,7 @@ sections:
       text: Social Media
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: You can find us on social meadia as well
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
