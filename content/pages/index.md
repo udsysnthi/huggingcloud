@@ -124,10 +124,13 @@ sections:
         type: FeaturedItem
       - title: Tours
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **Hugging Clouds Tours**, we offer unforgettable adventures in the
+          breathtaking landscapes surrounding **Adam’s Peak**. Whether you're
+          seeking a thrilling hike, a cultural journey, or a peaceful nature
+          escape, our expert-guided tours ensure a memorable and immersive
+          experience.
+
         image:
           altText: Featured icon three
           elementId: ''
