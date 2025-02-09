@@ -373,10 +373,20 @@ sections:
       - title: Amazing Place
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Amazing place, simple, cool rooms and great food. we stayed for 2
+          nights which I would absolutely recommend.
+
+          Started our hike at 330am and made it to the peak for sunrise to get a
+          spot (hugging clouds is 500m) from the start of the trail.
+
+          After the climb we came back and had the best banana pancake for
+          breakfast. Lump rice for dinner was also great.
+
+          Hugging clouds organised a TikTok for us to visit moray falls. We
+          walked through the tea plantations and swam and had the spot to
+          ourselves.
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
