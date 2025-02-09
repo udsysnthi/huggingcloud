@@ -42,7 +42,7 @@
             "label": "",
             "altText": "Dropdown",
             "links": [],
-            "labelStyle": "secondary",
+            "labelStyle": "primary",
             "type": "SubNav"
         }
     ],
