@@ -179,7 +179,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: 'Explore Around Us:'
       color: text-dark
       styles:
         self:
