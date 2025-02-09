@@ -95,7 +95,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Cozy & Comfortable Stay
+      - title: Guest Rooms
         subtitle: ''
         text: >+
           <div style="text-align: left">**Hugging Clouds Guest** offers a cozy
