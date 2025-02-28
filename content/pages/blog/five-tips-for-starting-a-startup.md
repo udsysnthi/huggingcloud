@@ -96,7 +96,6 @@ excerpt: >-
   Would you like more specific information, like how to book a stay or tips for
   hiking Adam's Peak?
 featuredImage:
-  url: /images/299980802_3039583539665411_3325121949440957334_n.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
