@@ -209,7 +209,7 @@ sections:
         altText: Tracking
       - type: ImageBlock
         url: /images/184833665.jpg
-        altText: Telus logo
+        altText: Room
       - type: ImageBlock
         url: /images/contenful-logo.svg
         altText: Contentful logo
