@@ -10,7 +10,8 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - content/pages/blog/about.md
     showThumbnail: true
     showExcerpt: true
     showDate: false
