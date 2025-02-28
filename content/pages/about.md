@@ -60,10 +60,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
     styles:
