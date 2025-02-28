@@ -110,16 +110,7 @@ sections:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
-        actions:
-          - type: Link
-            label: More Details
-            altText: ''
-            url: /about
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
