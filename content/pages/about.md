@@ -24,8 +24,7 @@ sections:
       self:
         justifyContent: center
   - type: FeaturedPostsSection
-    posts:
-      - content/pages/blog/about.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: false
