@@ -206,7 +206,7 @@ sections:
         altText: logo
       - type: ImageBlock
         url: /images/caption (3).jpg
-        altText: Vise logo
+        altText: Tracking
       - type: ImageBlock
         url: /images/telus-logo.svg
         altText: Telus logo
