@@ -41,7 +41,7 @@ sections:
       - content/pages/blog/life-of-our-development-team.md
     showThumbnail: true
     showExcerpt: true
-    showDate: true
+    showDate: false
     showAuthor: true
     actions: []
     elementId: ''
