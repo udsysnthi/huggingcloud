@@ -200,7 +200,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Adams_Peak_in_Sri_Lanka.jpg
-        altText: Empathy logo
+        altText: Adam's Peak
       - type: ImageBlock
         url: /images/wellster-logo.svg
         altText: Wellster logo
