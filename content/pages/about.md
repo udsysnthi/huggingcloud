@@ -203,7 +203,7 @@ sections:
         altText: Adam's Peak
       - type: ImageBlock
         url: /images/IMG-20250228-WA0035.jpg
-        altText: Wellster logo
+        altText: logo
       - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
