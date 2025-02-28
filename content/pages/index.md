@@ -112,7 +112,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Link
-            label: See Tutorials
+            label: More Details
             altText: ''
             url: /about
             showIcon: false
