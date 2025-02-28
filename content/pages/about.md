@@ -199,7 +199,7 @@ sections:
     subtitle: Award winning enterprises trust us
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/Adams_Peak_in_Sri_Lanka.jpg
         altText: Empathy logo
       - type: ImageBlock
         url: /images/wellster-logo.svg
