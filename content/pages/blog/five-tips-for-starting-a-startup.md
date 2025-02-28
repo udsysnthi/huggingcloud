@@ -1,7 +1,7 @@
 ---
 title: HUGGING CLOUDS
 slug: five-tips-for-starting-a-startup
-date: '2023-03-18'
+date: ''
 excerpt: >-
   Hugging Clouds Guest House is a cozy and scenic guesthouse located near Adam's
   Peak in Sri Lanka, specifically in the town of Dalhousie (also known as
