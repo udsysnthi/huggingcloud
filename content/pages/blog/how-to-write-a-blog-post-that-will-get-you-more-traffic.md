@@ -2,7 +2,7 @@
 type: PostLayout
 title: ''
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
-date: '2023-01-18'
+date: ''
 excerpt: ''
 featuredImage:
   url: /images/IMG-20250228-WA0035.jpg
