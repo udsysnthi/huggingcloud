@@ -208,7 +208,7 @@ sections:
         url: /images/caption (3).jpg
         altText: Tracking
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/184833665.jpg
         altText: Telus logo
       - type: ImageBlock
         url: /images/contenful-logo.svg
