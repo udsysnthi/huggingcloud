@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: About
+title: ''
 date: '2025-01-01'
 excerpt: >-
   Hugging Clouds Guest House is a cozy and scenic guesthouse located near Adam's
