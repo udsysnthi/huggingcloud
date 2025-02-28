@@ -25,7 +25,6 @@ excerpt: >-
   December to May).
 featuredImage:
   type: ImageBlock
-  url: /images/IMG-20250228-WA0035.jpg
   altText: Thumbnail
   elementId: ''
   styles:
