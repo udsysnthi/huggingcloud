@@ -1,6 +1,6 @@
 ---
 title: Pricing
-slug: pricing
+slug: /pricing
 sections:
   - title:
       text: Flexible Pricing
