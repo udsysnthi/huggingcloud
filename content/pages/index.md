@@ -112,7 +112,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Link
-            label: Send
+            label: More
             altText: Send
             url: /about
             showIcon: true
