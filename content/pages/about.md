@@ -8,7 +8,10 @@ sections:
       text: ABOUT
       color: text-dark
     subtitle: ''
-    text: >+
+    text: >
+      ****![](/images/IMG-20250228-WA0035.jpg)
+
+
       **Hugging Clouds Guest House** is a cozy and scenic guesthouse located
       near **Adam's Peak** in Sri Lanka, specifically in the town of
       **Dalhousie** (also known as Nallathanniya). It has become a place to stay
@@ -46,7 +49,6 @@ sections:
       Since Hugging Clouds is a small guesthouse, it’s often advisable to book
       in advance, especially during peak pilgrimage seasons (typically from
       December to May).
-
     actions:
       - type: Button
         label: BOOK NOW
