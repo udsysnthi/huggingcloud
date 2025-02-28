@@ -202,7 +202,7 @@ sections:
         url: /images/Adams_Peak_in_Sri_Lanka.jpg
         altText: Adam's Peak
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/IMG-20250228-WA0035.jpg
         altText: Wellster logo
       - type: ImageBlock
         url: /images/vise-logo.svg
