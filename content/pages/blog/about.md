@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: About
-date: '2022-10-10'
+date: ''
 excerpt: >-
   Hugging Clouds Guest House is a cozy and scenic guesthouse located near Adam's
   Peak in Sri Lanka, specifically in the town of Dalhousie (also known as
