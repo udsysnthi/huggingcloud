@@ -59,7 +59,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: ''
         altText: ''
         url: /
         showIcon: true
