@@ -30,13 +30,6 @@ sections:
         justifyContent: center
     subtitle: ''
   - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Featured posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     posts:
       - content/pages/blog/life-of-our-development-team.md
     showThumbnail: true
