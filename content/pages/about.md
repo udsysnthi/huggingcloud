@@ -49,7 +49,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: BOOK NOW
         altText: ''
         url: /
         showIcon: false
