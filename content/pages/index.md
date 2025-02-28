@@ -113,7 +113,7 @@ sections:
         actions:
           - type: Link
             label: More
-            altText: Send
+            altText: ''
             url: /about
             showIcon: true
             icon: send
