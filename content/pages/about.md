@@ -3,13 +3,6 @@ type: PageLayout
 title: About
 sections:
   - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: ABOUT
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     posts:
       - content/pages/blog/about.md
     showThumbnail: true
