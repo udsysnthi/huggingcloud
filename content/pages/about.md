@@ -37,8 +37,7 @@ sections:
       - type: Button
         label: BOOK NOW
         altText: ''
-        url: >-
-          /https://www.booking.com/searchresults.en-gb.html?aid=318615&label=New_English_EN_SG_20153755105-ZwsmidGEETVW79m3dWtGeAS217272541619%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg&gclid=Cj0KCQiA2oW-BhC2ARIsADSIAWrq2-4tbJrWkZRKIDGFvCmDibIJvbROngjlp5a8QHBeIa7FfFDvIQMaAne-EALw_wcB&highlighted_hotels=1673282&redirected=1&city=900052927&hlrd=no_dates&source=hotel&expand_sb=1&keep_landing=1&sid=549a6e87dfd8243b005a62db72800999
+        url: 'https://www.booking.com/hotel/lk/hugging-clouds.en-gb.html?aid800999'
         showIcon: false
         icon: arrowRight
         iconPosition: right
