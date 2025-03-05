@@ -43,19 +43,14 @@ sections:
           reflection.
 
 
-          ### **The Shadow of the Peak**
 
-
-          A **unique natural phenomenon** associated with Adam's Peak is the
-          **"shadow of the peak"**. At sunrise, when the weather conditions are
-          right, the shadow of the mountain casts a stunning triangular shape on
-          the surrounding landscape, which is seen as a sacred symbol. This
-          occurrence is considered **a divine manifestation**, further
-          strengthening the religious importance of the peak.
-
-
-
-
+          The climb to the summit is challenging but rewarding. Along the way,
+          hikers are treated to stunning views of the surrounding forests, tea
+          plantations, and distant hills. One of the most beautiful experiences
+          at Adam's Peak is watching the sunrise from the summit. Due to its
+          location, the sun rises directly in front of the mountain, creating a
+          magnificent view with a mystical phenomenon known as the "shadow of
+          the peak."
 
         image:
           type: ImageBlock
