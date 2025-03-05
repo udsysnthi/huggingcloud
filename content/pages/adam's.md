@@ -155,7 +155,7 @@ sections:
           of the modern pilgrimage and tourism industry.
 
 
-          ### **Cultural Traditions and Festivals**
+          #### **Cultural Traditions and Festivals**
 
 
           The pilgrimage to Adam's Peak is closely tied to various **cultural
@@ -179,7 +179,7 @@ sections:
           together to share in the experience of reaching the summit.
 
 
-          ### **Ecological and Environmental Significance**
+          #### **Ecological and Environmental Significance**
 
 
           Adam's Peak is part of a **UNESCO-designated biosphere reserve**. The
@@ -191,7 +191,7 @@ sections:
           environmental value.
 
 
-          ### **Influence in Literature and Art**
+          #### **Influence in Literature and Art**
 
 
           Adam's Peak has inspired **literature, art, and poetry** throughout
