@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Adam's Peak (Sripadaya)
       color: text-primary
       styles:
         self:
