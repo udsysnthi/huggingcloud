@@ -114,6 +114,22 @@ sections:
           **Adam** (Hawwa in Islamic tradition), who is thought to have traveled
           to the mountain after his fall from paradise.
 
+
+          #### **Influence in Literature and Art**
+
+
+          Adam's Peak has inspired **literature, art, and poetry** throughout
+          Sri Lanka's history. It has been depicted in ancient texts,
+          particularly in the **Mahavamsa** (the great chronicle of Sri Lanka)
+          and other works of religious and historical significance. The mountain
+          and its sacred footprint have been featured in **Buddhist and Hindu
+          mythology**, while also being referenced in colonial-era travel
+          writings and modern tourist accounts.
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/download.jpg
