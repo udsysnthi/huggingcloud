@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: About
+        title: Summery
         tagline: ''
         subtitle: ''
         text: >
