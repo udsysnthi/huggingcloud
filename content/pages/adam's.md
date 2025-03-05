@@ -142,17 +142,6 @@ sections:
           of the modern pilgrimage and tourism industry.
 
 
-          ### **The Shadow of the Peak**
-
-
-          A **unique natural phenomenon** associated with Adam's Peak is the
-          **"shadow of the peak"**. At sunrise, when the weather conditions are
-          right, the shadow of the mountain casts a stunning triangular shape on
-          the surrounding landscape, which is seen as a sacred symbol. This
-          occurrence is considered **a divine manifestation**, further
-          strengthening the religious importance of the peak.
-
-
           ### **Cultural Traditions and Festivals**
 
 
