@@ -207,7 +207,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/Shadow_of_the_peak_when_sun_rising.jpg
           altText: Placeholder image
           styles:
             self:
