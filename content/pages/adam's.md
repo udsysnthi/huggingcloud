@@ -131,10 +131,7 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: >+
-          ### **Colonial and Modern Influence**
-
-
+        text: >
           During the **British colonial period** in the 19th century, Adam's
           Peak became more accessible to foreigners, and the British rulers
           constructed the stone steps that still exist today. This era also saw
@@ -202,9 +199,6 @@ sections:
           and its sacred footprint have been featured in **Buddhist and Hindu
           mythology**, while also being referenced in colonial-era travel
           writings and modern tourist accounts.
-
-
-
         image:
           type: ImageBlock
           url: /images/Shadow_of_the_peak_when_sun_rising.jpg
