@@ -78,7 +78,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Historical and Cultural Significance
+        title: Cultural Significance
         tagline: ''
         subtitle: ''
         text: >+
