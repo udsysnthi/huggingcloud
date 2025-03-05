@@ -77,7 +77,7 @@ sections:
           seekers.![](/images/Adams_Peak_in_Sri_Lanka.jpg)
         actions:
           - type: Button
-            label: Get started
+            label: More Details
             altText: ''
             url: /
             showIcon: false
