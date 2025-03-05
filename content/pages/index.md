@@ -79,7 +79,7 @@ sections:
           - type: Button
             label: More Details
             altText: ''
-            url: /
+            url: /adam's
             showIcon: false
             icon: arrowRight
             iconPosition: right
