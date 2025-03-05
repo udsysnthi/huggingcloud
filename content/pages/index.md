@@ -75,7 +75,16 @@ sections:
           this majestic peak is a pilgrimage site for people of all faiths and a
           must-visit for nature lovers and adventure
           seekers.![](/images/Adams_Peak_in_Sri_Lanka.jpg)
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
