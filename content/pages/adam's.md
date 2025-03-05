@@ -16,8 +16,15 @@ sections:
         title: About
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          Adam's Peak (also known as **Sri Pada**) is a significant mountain
+          located in the central highlands of Sri Lanka. Standing at 2,243
+          meters (7,359 feet) above sea level, it is one of the most famous
+          pilgrimage sites in the country, known for the **"sacred footprint"**
+          at its summit. The footprint, which is believed to be the mark of
+          Buddha by Buddhists, the mark of Shiva by Hindus, and the mark of Adam
+          by Christians and Muslims, is the focal point of spiritual
+          significance for people of various religions.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
