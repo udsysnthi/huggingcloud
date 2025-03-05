@@ -16,7 +16,7 @@ sections:
         title: Summery
         tagline: ''
         subtitle: ''
-        text: >
+        text: >+
           Adam's Peak (also known as **Sri Pada**) is a significant mountain
           located in the central highlands of Sri Lanka. Standing at 2,243
           meters (7,359 feet) above sea level, it is one of the most famous
@@ -25,6 +25,25 @@ sections:
           Buddha by Buddhists, the mark of Shiva by Hindus, and the mark of Adam
           by Christians and Muslims, is the focal point of spiritual
           significance for people of various religions.
+
+
+          The mountain has been a **pilgrimage destination** for over a
+          millennium, with its significance continuing to this day. People of
+          various faiths undertake the strenuous climb to the summit, often as
+          an act of devotion and reverence. The pilgrimage season usually runs
+          from **December to May** and coincides with favorable weather, with
+          the **full moon poya day** (a Buddhist religious day) being especially
+          significant for many.
+
+
+          The **Sri Pada pilgrimage route** is marked by a series of **over
+          5,500 steps**, many of which were built by Sri Lankan kings. The climb
+          is not just a physical journey but also a **spiritual one**, with
+          pilgrims stopping at several shrines along the way for prayer and
+          reflection.
+
+
+
         image:
           type: ImageBlock
           url: /images/Adams_Peak_in_Sri_Lanka.jpg
