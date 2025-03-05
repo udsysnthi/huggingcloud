@@ -44,7 +44,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: History
+        title: Historical and Cultural Significance
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
