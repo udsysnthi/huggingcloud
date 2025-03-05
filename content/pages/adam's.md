@@ -136,7 +136,7 @@ sections:
         title: Colonial and Modern Influence
         tagline: ''
         subtitle: ''
-        text: >
+        text: >+
           During the **British colonial period** in the 19th century, Adam's
           Peak became more accessible to foreigners, and the British rulers
           constructed the stone steps that still exist today. This era also saw
@@ -182,17 +182,6 @@ sections:
           the centuries, as local people have understood its spiritual and
           environmental value.
 
-
-          #### **Influence in Literature and Art**
-
-
-          Adam's Peak has inspired **literature, art, and poetry** throughout
-          Sri Lanka's history. It has been depicted in ancient texts,
-          particularly in the **Mahavamsa** (the great chronicle of Sri Lanka)
-          and other works of religious and historical significance. The mountain
-          and its sacred footprint have been featured in **Buddhist and Hindu
-          mythology**, while also being referenced in colonial-era travel
-          writings and modern tourist accounts.
         image:
           type: ImageBlock
           url: /images/Shadow_of_the_peak_when_sun_rising.jpg
