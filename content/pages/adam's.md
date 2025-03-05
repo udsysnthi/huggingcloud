@@ -46,7 +46,7 @@ sections:
       - type: FeaturedItem
         title: Historical and Cultural Significance
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
