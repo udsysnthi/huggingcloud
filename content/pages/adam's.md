@@ -75,14 +75,6 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          **Adam's Peak (Sri Pada)** holds immense **historical and cultural
-          significance** in Sri Lanka, attracting not only local pilgrims but
-          also international visitors interested in its deep spiritual heritage.
-          The mountain has been revered for over a thousand years by people of
-          different faiths, and its cultural importance is interwoven with
-          religious beliefs, legends, and historical events.
-
-
           ### **Sacred Footprint – A Symbol of Religious Unity**
 
 
@@ -114,8 +106,6 @@ sections:
           Garden of Eden. Muslims similarly view the footprint as that of
           **Adam** (Hawwa in Islamic tradition), who is thought to have traveled
           to the mountain after his fall from paradise.
-
-
 
         image:
           type: ImageBlock
