@@ -128,7 +128,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: ''
+        title: Colonial and Modern Influence
         tagline: ''
         subtitle: ''
         text: >
