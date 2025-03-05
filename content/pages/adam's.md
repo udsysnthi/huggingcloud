@@ -27,7 +27,7 @@ sections:
           significance for people of various religions.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Adams_Peak_in_Sri_Lanka.jpg
           altText: Placeholder image
           styles:
             self:
