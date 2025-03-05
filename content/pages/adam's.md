@@ -200,7 +200,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Shadow_of_the_peak_when_sun_rising.jpg
+          url: /images/adams-peak-in-1-day.webp
           altText: Placeholder image
           styles:
             self:
