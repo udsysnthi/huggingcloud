@@ -23,7 +23,7 @@ sections:
       and forests, making it an ideal spot for nature lovers.</div>
 
 
-      <div style="text-align: left">*   **Accommodation**: We provides simple,
+      <div style="text-align: center">*   **Accommodation**: We provides simple,
       clean, and comfortable rooms. The accommodation options are often basic
       but cozy, with modern amenities to ensure a comfortable stay. Rooms often
       have large windows with beautiful views of the surrounding scenery, which
@@ -34,12 +34,10 @@ sections:
       information about the Adam's Peak trek, including the best time to start
       the hike and what to expect along the way. also hugging clouds offers
       meals, and many guests recommend trying the home-cooked food, which is a
-      great way to experience local Sri Lankan flavors.</div>
-
-
-      *   **Booking & Availability**: Since Hugging Clouds is a small
-      guesthouse, it’s often advisable to book in advance, especially during
-      peak pilgrimage seasons (typically from December to May).
+      great way to experience local Sri Lankan flavors.*   **Booking &
+      Availability**: Since Hugging Clouds is a small guesthouse, it’s often
+      advisable to book in advance, especially during peak pilgrimage seasons
+      (typically from December to May).</div>
 
     actions:
       - type: Button
