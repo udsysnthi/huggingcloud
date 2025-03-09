@@ -16,8 +16,9 @@ sections:
         title: DAY TOURS
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: |+
+          WATERFALL TOURS
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
