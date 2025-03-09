@@ -27,7 +27,7 @@ sections:
       clean, and comfortable rooms. The accommodation options are often basic
       but cozy, with modern amenities to ensure a comfortable stay. Rooms often
       have large windows with beautiful views of the surrounding scenery, which
-      adds to the charm of staying here.*\*   
+      adds to the charm of staying here.*
 
       *   ***Hospitality & Service**: The staff at Hugging Clouds is known for
       being friendly and welcoming. They typically provide guests with useful
