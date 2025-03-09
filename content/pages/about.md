@@ -20,7 +20,7 @@ sections:
       sacred footprint. The guesthouse is situated in a peaceful, serene
       environment, surrounded by lush greenery and misty clouds, hence the name
       "Hugging Clouds." It provides stunning views of the surrounding mountains
-      and forests, making it an ideal spot for nature lovers.\*  
+      and forests, making it an ideal spot for nature lovers.*  
       **Accommodation**: We provides simple, clean, and comfortable rooms. The
       accommodation options are often basic but cozy, with modern amenities to
       ensure a comfortable stay. Rooms often have large windows with beautiful
