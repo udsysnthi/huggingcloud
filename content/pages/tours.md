@@ -49,7 +49,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/408389908_843092264486845_5900627026061935415_n.jpg
           altText: Placeholder image
           styles:
             self:
