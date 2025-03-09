@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: DAY TOURS
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
