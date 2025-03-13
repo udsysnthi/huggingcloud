@@ -156,7 +156,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: All Tours
             altText: ''
             url: /tours
             showIcon: false
