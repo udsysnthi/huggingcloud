@@ -160,7 +160,7 @@ sections:
             altText: Send
             url: /tours
             showIcon: true
-            icon: send
+            icon: play
             iconPosition: right
             style: secondary
             elementId: ''
