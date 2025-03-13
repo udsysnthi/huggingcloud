@@ -264,7 +264,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: col
+            flexDirection: row
             borderStyle: none
     actions: []
     variant: three-col-grid
