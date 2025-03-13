@@ -115,6 +115,36 @@ sections:
             borderRadius: x-large
             flexDirection: col
             borderStyle: none
+      - type: FeaturedItem
+        title: ADAM'S PEAK HIKE
+        tagline: ''
+        subtitle: ''
+        text: >+
+          **Guided Trekking Tours**: Adam's Peak is one of Sri Lanka’s most
+          famous treks. It stands at **2,243 meters (7,359 feet)** and offers a
+          panoramic view of the surrounding landscape. The trek usually begins
+          in the early hours of the morning or at night to catch the stunning
+          sunrise from the top.
+
+        image:
+          type: ImageBlock
+          url: /images/adams-peak-in-1-day.webp
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            borderStyle: none
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
