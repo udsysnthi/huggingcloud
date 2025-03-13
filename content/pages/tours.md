@@ -106,10 +106,10 @@ sections:
             borderRadius: x-large
             flexDirection: col
             margin:
-              - mt-20
-              - ml-20
-              - mb-20
-              - mr-20
+              - mt-24
+              - ml-24
+              - mb-24
+              - mr-24
       - type: FeaturedItem
         title: Around Sri Lanka
         tagline: ''
