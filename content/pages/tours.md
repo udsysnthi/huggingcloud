@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: DAY TOURS
+        title: WATERFALL
         tagline: ''
         subtitle: ''
         text: >+
