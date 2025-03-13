@@ -268,10 +268,10 @@ sections:
             borderStyle: none
             borderWidth: 8
             margin:
-              - mt-8
-              - ml-8
-              - mb-8
-              - mr-8
+              - mt-0
+              - ml-0
+              - mb-0
+              - mr-0
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
