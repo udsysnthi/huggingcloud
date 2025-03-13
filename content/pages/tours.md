@@ -30,7 +30,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Link
-            label: waterfalls >
+            label: WATER FALLS CAN VISIT >>>
             altText: ''
             url: /waterfalls
             showIcon: false
