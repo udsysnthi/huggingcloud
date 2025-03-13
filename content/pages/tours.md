@@ -264,7 +264,7 @@ sections:
               - pb-80
               - pr-80
             borderRadius: x-large
-            flexDirection: col
+            flexDirection: row
             borderStyle: none
             borderWidth: 8
             margin:
