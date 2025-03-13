@@ -150,7 +150,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          \*\*\*\*![](https://preview--huggingclouds-82975.stackbit.dev/images/800x750-14.jpg)
+          ![](https://preview--huggingclouds-82975.stackbit.dev/images/800x750-14.jpg)
 
 
           **1. Cultural Triangle Tour**
@@ -277,8 +277,6 @@ sections:
 
 
           ### We arrange the destination as you like and perfect tour plan.
-
-
 
         image:
           type: ImageBlock
