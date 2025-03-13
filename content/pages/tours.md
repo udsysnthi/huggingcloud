@@ -253,10 +253,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-2
-              - pl-2
-              - pb-2
-              - pr-2
+              - pt-96
+              - pl-96
+              - pb-96
+              - pr-96
             borderRadius: x-large
             flexDirection: col
             margin:
