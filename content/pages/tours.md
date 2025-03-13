@@ -147,7 +147,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ALL SRI LANKA
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >+
           \*\*\*\*![](https://preview--huggingclouds-82975.stackbit.dev/images/800x750-14.jpg)
