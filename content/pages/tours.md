@@ -98,8 +98,12 @@ sections:
         title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >+
+          **Hiking & Nature Walks**: For those who want to enjoy the natural
+          beauty without the full trek to Adam’s Peak, Hugging Clouds Day Tours
+          might offer alternative hikes or nature walks through the surrounding
+          forests and tea plantations.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
