@@ -209,7 +209,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/IMG_0233.jpg
+          url: /images/aberdeen-falls.jpg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
