@@ -107,7 +107,7 @@ sections:
       - title: Guest Rooms
         subtitle: ''
         text: >+
-          <div style="text-align: left">Offers a cozy retreat surrounded by
+          <div style="text-align: center">Offers a cozy retreat surrounded by
           breathtaking landscapes. Whether you're looking for a peaceful escape
           or an exciting journey, we provide warm hospitality, comfortable
           accommodations, and expertly guided tours to help you experience the
