@@ -30,7 +30,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Link
-            label: See Tutorials
+            label: waterfalls >
             altText: ''
             url: /waterfalls
             showIcon: false
