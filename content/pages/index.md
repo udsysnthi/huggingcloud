@@ -77,7 +77,7 @@ sections:
 
         actions:
           - type: Link
-            label: Send
+            label: 'More '
             altText: Send
             url: /adam's
             showIcon: true
