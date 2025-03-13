@@ -135,33 +135,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: false
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: big-list
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
 slug: tours
 isDraft: false
 seo:
