@@ -319,7 +319,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         text: >+
 
 
