@@ -170,38 +170,36 @@ sections:
         title: Aberdeen Waterfall
         subtitle: ''
         text: >+
-          Gartmore Falls is located in the **Maskeliya** region, close to
-          **Adam's Peak**, The falls are part of the **Maskeliya Oya**, a river
-          that flows through the central highlands. The waterfall stands at
-          about **60 meters (197 feet)**, cascading through lush greenery and
-          rocks, offering a peaceful and picturesque sight.
+          **Aberdeen Waterfall** is one of Sri Lanka's most stunning waterfalls,
+          situated about **26 km from Nuwara Eliya** and approximately **8 km
+          from Ginigathena**, along the **Kothmale Oya** (river).  Aberdeen
+          Falls has a height of around **98 meters (322 feet)**, making it a
+          moderately tall waterfall with multiple cascades, creating a
+          spectacular sight as it flows down the mountainside.
 
 
-          *   The falls are not as easily accessible as some other waterfalls in
-          Sri Lanka. Visitors typically need to hike to reach the base of the
-          waterfall, making it a more adventurous destination for those who
-          enjoy trekking.
+          *   The waterfall is surrounded by lush greenery, tea plantations, and
+          mist-covered mountains, providing a serene and picturesque setting.
+          The area is peaceful, making it a perfect spot for photography and
+          relaxation.
 
 
-          *   Surrounded by tea plantations, mist-covered hills, and dense
-          forests, Gartmore Falls offers a serene and untouched natural
-          environment, perfect for photography and nature walks.
+          *   The ideal time to visit is during the **dry season** (from
+          **December to April**) for more comfortable access to the waterfall.
+          However, the waterfall is most impressive after rainfall, during the
+          **monsoon season** (May to September), when the water flow is at its
+          peak.
 
 
-          *   The waterfall is at its most impressive during the rainy season
-          when the water flow is at its peak. However, visiting during the dry
-          season (December to April) is also an option for a more accessible
-          hike.
+          *   The region is rich in biodiversity, with opportunities for
+          birdwatching and exploring the surrounding forests and tea estates.
 
 
-          *   Reaching Gartmore Falls requires a short but enjoyable hike,
-          providing stunning views of the surrounding landscapes. The trek is
-          relatively easy and is perfect for nature lovers.
-
-
-          **Gartmore Falls** in **Maskeliya** is a hidden gem for those who want
-          to experience Sri Lanka’s natural beauty and enjoy a quiet, serene
-          atmosphere far from the typical tourist crowds.
+          Aberdeen Falls is a beautiful and tranquil location, offering visitors
+          a chance to experience the natural beauty of Sri Lanka's hill country
+          in a peaceful and less crowded setting. Whether you're hiking, taking
+          photographs, or simply enjoying the view, it's a must-visit for nature
+          enthusiasts.
 
 
 
