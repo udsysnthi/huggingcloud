@@ -114,6 +114,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            borderStyle: none
       - type: FeaturedItem
         title: Around Sri Lanka
         tagline: ''
