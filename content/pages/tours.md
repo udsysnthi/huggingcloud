@@ -113,6 +113,7 @@ sections:
             justifyContent: flex-start
             textAlign: left
             borderStyle: none
+            borderWidth: 8
       - type: FeaturedItem
         title: Around Sri Lanka
         tagline: ''
