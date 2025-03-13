@@ -166,6 +166,60 @@ sections:
 
 
 
+      - type: FeaturedItem
+        title: Gartmore Waterfall
+        subtitle: ''
+        text: >+
+          Gartmore Falls is located in the **Maskeliya** region, close to
+          **Adam's Peak**, The falls are part of the **Maskeliya Oya**, a river
+          that flows through the central highlands. The waterfall stands at
+          about **60 meters (197 feet)**, cascading through lush greenery and
+          rocks, offering a peaceful and picturesque sight.
+
+
+          *   The falls are not as easily accessible as some other waterfalls in
+          Sri Lanka. Visitors typically need to hike to reach the base of the
+          waterfall, making it a more adventurous destination for those who
+          enjoy trekking.
+
+
+          *   Surrounded by tea plantations, mist-covered hills, and dense
+          forests, Gartmore Falls offers a serene and untouched natural
+          environment, perfect for photography and nature walks.
+
+
+          *   The waterfall is at its most impressive during the rainy season
+          when the water flow is at its peak. However, visiting during the dry
+          season (December to April) is also an option for a more accessible
+          hike.
+
+
+          *   Reaching Gartmore Falls requires a short but enjoyable hike,
+          providing stunning views of the surrounding landscapes. The trek is
+          relatively easy and is perfect for nature lovers.
+
+
+          **Gartmore Falls** in **Maskeliya** is a hidden gem for those who want
+          to experience Sri Lanka’s natural beauty and enjoy a quiet, serene
+          atmosphere far from the typical tourist crowds.
+
+
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/IMG_0233.jpg
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
     actions: []
     elementId: ''
     variant: small-list
