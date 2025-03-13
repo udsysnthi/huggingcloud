@@ -154,7 +154,16 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Link
+            label: Send
+            altText: Send
+            url: /tours
+            showIcon: true
+            icon: send
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
