@@ -49,7 +49,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: ADAM'S PEAK
+        title: ADAM'S PEAK HIKE
         tagline: ''
         subtitle: ''
         text: >+
