@@ -259,6 +259,11 @@ sections:
               - pr-16
             borderRadius: x-large
             flexDirection: col
+            margin:
+              - mt-40
+              - ml-40
+              - mb-40
+              - mr-40
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
