@@ -161,7 +161,7 @@ sections:
             url: /tours
             showIcon: true
             icon: play
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
         colors: bg-neutralAlt-fg-dark
