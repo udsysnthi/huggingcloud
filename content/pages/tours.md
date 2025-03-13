@@ -96,7 +96,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: NATURE & SCENIC
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >+
           **Hiking & Nature Walks**: For those who want to enjoy the natural
