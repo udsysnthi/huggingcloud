@@ -23,7 +23,9 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-### ![](/images/800x750.jpg)**1. Cultural Triangle Tour**
+****![](/images/800x750-14.jpg)
+
+**1. Cultural Triangle Tour**
 
 Explore Sri Lanka's ancient history with visits to:
 
