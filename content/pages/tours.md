@@ -249,7 +249,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/adams-peak-in-1-day.webp
+          url: /images/800x750-14.jpg
           altText: Placeholder image
           styles:
             self:
