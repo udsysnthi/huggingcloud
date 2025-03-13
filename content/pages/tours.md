@@ -107,7 +107,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Around Sri Lanka
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
