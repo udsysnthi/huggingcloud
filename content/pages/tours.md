@@ -147,8 +147,8 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          \*\*\*\*![](/images/800x750-14.jpg)
+        text: >
+          ![](/images/800x750-14.jpg)
 
 
           **1. Cultural Triangle Tour**
@@ -274,12 +274,11 @@ sections:
           *   **Colombo**: Fusion cuisine and international food experiences.
 
 
-          #### We arrange the destination and tour plan as you like. 
+          #### We arrange the destination and tour plan as you like.
 
 
           Contact us and get your tour plan and enjoy your wonderful holiday in
           Sri Lanka.
-
         actions: []
         colors: bg-light-fg-dark
         styles:
