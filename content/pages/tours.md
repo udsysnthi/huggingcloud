@@ -81,7 +81,7 @@ sections:
               - ml-0
               - mb-0
               - mr-0
-            justifyContent: flex-start
+            justifyContent: center
             textAlign: left
             borderStyle: none
             borderWidth: 8
