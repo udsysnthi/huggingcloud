@@ -75,7 +75,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
             margin:
               - mt-0
               - ml-0
