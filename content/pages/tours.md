@@ -116,7 +116,7 @@ sections:
             flexDirection: col
             borderStyle: none
       - type: FeaturedItem
-        title: ADAM'S PEAK HIKE
+        title: ALL AROUND SRI LANKA
         tagline: ''
         subtitle: ''
         text: >+
