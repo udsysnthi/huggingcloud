@@ -71,7 +71,7 @@ sections:
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/PSX_20230416_190725.jpg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
