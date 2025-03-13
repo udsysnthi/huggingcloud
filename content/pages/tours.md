@@ -149,7 +149,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Shadow_of_the_peak_when_sun_rising.jpg
+      url: /images/IMG-20250228-WA0035.jpg
 slug: tours
 isDraft: false
 seo:
