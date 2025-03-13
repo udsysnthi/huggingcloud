@@ -70,10 +70,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-96
-              - pl-96
-              - pb-96
-              - pr-96
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
             borderRadius: x-large
             flexDirection: row
             margin:
