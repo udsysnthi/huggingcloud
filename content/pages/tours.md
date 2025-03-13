@@ -32,7 +32,7 @@ sections:
           - type: Link
             label: See Tutorials
             altText: ''
-            url: /wateralls
+            url: /waterfalls
             showIcon: false
             icon: arrowRight
             iconPosition: right
