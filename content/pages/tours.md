@@ -104,7 +104,7 @@ sections:
               - pb-96
               - pr-96
             borderRadius: x-large
-            flexDirection: col-reverse
+            flexDirection: col
             margin:
               - mt-0
               - ml-0
