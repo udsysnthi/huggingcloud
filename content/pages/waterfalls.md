@@ -233,7 +233,7 @@ sections:
       subtitle:
         textAlign: center
   - type: DividerSection
-    title: ''
+    title: contact for more details
     elementId: ''
     colors: bg-light-fg-dark
     styles:
