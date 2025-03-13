@@ -16,12 +16,11 @@ sections:
         title: WATERFALL
         tagline: ''
         subtitle: ''
-        text: >+
+        text: >
           **Waterfalls and Scenic Spots**: The area around Nallathanniya is
           filled with lush greenery, waterfalls, and panoramic viewpoints,
           providing a great opportunity to explore the beauty of Sri Lanka’s
           hill country.
-
         image:
           type: ImageBlock
           url: /images/408389908_843092264486845_5900627026061935415_n.jpg
