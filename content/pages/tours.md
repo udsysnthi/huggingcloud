@@ -111,6 +111,7 @@ sections:
               - mb-0
               - mr-0
             justifyContent: flex-start
+            textAlign: left
       - type: FeaturedItem
         title: Around Sri Lanka
         tagline: ''
