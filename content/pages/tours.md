@@ -30,7 +30,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: ''
             altText: ''
             url: /waterfalls
             showIcon: false
