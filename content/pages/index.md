@@ -68,19 +68,20 @@ sections:
       - type: FeaturedItem
         title: Adam's Peak (Sri Pada)
         subtitle: ''
-        text: >
-          Adam’s Peak, also known as **Sri Pada**, is one of Sri Lanka’s most
-          iconic and sacred mountains. Rising to **2,243 meters (7,359 feet)**,
-          this majestic peak is a pilgrimage site for people of all faiths and a
-          must-visit for nature lovers and adventure
-          seekers.![](/images/Adams_Peak_in_Sri_Lanka.jpg)
+        text: >+
+          <div style="text-align: center">Adam’s Peak, also known as **Sri
+          Pada**, is one of Sri Lanka’s most iconic and sacred mountains. Rising
+          to **2,243 meters (7,359 feet)**, this majestic peak is a pilgrimage
+          site for people of all faiths and a must-visit for nature lovers and
+          adventure seekers.![](/images/Adams_Peak_in_Sri_Lanka.jpg)</div>
+
         actions:
-          - type: Button
-            label: More Details
-            altText: ''
+          - type: Link
+            label: 'More '
+            altText: Send
             url: /adam's
-            showIcon: false
-            icon: arrowRight
+            showIcon: true
+            icon: send
             iconPosition: right
             style: secondary
             elementId: ''
@@ -96,7 +97,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: left
+            textAlign: center
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
@@ -107,7 +108,7 @@ sections:
       - title: Guest Rooms
         subtitle: ''
         text: >+
-          <div style="text-align: left">Offers a cozy retreat surrounded by
+          <div style="text-align: center">Offers a cozy retreat surrounded by
           breathtaking landscapes. Whether you're looking for a peaceful escape
           or an exciting journey, we provide warm hospitality, comfortable
           accommodations, and expertly guided tours to help you experience the
@@ -138,7 +139,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            textAlign: left
+            textAlign: center
             justifyContent: center
         type: FeaturedItem
       - title: Tours
@@ -153,7 +154,16 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Link
+            label: All Tours
+            altText: Send
+            url: /tours
+            showIcon: true
+            icon: send
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -164,6 +174,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: center
         type: FeaturedItem
     actions: []
     badge:
