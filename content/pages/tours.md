@@ -28,16 +28,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /waterfalls
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
