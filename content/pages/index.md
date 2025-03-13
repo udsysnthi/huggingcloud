@@ -154,16 +154,7 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-        actions:
-          - type: Button
-            label: All Tours
-            altText: ''
-            url: /tours
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
+        actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
