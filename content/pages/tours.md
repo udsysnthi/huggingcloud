@@ -260,10 +260,10 @@ sections:
             borderRadius: x-large
             flexDirection: col
             margin:
-              - mt-40
-              - ml-40
-              - mb-40
-              - mr-40
+              - mt-96
+              - ml-96
+              - mb-96
+              - mr-96
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
