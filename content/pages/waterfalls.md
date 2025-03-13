@@ -167,7 +167,7 @@ sections:
 
 
       - type: FeaturedItem
-        title: Gartmore Waterfall
+        title: Aberdeen Waterfall
         subtitle: ''
         text: >+
           Gartmore Falls is located in the **Maskeliya** region, close to
