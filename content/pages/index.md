@@ -68,12 +68,13 @@ sections:
       - type: FeaturedItem
         title: Adam's Peak (Sri Pada)
         subtitle: ''
-        text: >
-          Adam’s Peak, also known as **Sri Pada**, is one of Sri Lanka’s most
-          iconic and sacred mountains. Rising to **2,243 meters (7,359 feet)**,
-          this majestic peak is a pilgrimage site for people of all faiths and a
-          must-visit for nature lovers and adventure
-          seekers.![](/images/Adams_Peak_in_Sri_Lanka.jpg)
+        text: >+
+          <div style="text-align: center">Adam’s Peak, also known as **Sri
+          Pada**, is one of Sri Lanka’s most iconic and sacred mountains. Rising
+          to **2,243 meters (7,359 feet)**, this majestic peak is a pilgrimage
+          site for people of all faiths and a must-visit for nature lovers and
+          adventure seekers.![](/images/Adams_Peak_in_Sri_Lanka.jpg)</div>
+
         actions:
           - type: Button
             label: More Details
