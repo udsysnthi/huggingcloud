@@ -113,7 +113,7 @@ sections:
 
 
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Gartmore Waterfall
         subtitle: $117
         image:
           type: ImageBlock
