@@ -450,19 +450,6 @@ sections:
 
 
 
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-              padding:
-                - pt-0
-                - pl-0
-                - pb-0
-                - pr-0
         actions: []
         colors: bg-light-fg-dark
         styles:
