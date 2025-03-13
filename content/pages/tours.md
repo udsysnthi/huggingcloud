@@ -67,7 +67,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: ADAM'S PEAK
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >+
           **Guided Trekking Tours**: Adam's Peak is one of Sri Lanka’s most
