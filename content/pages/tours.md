@@ -69,8 +69,13 @@ sections:
         title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >+
+          **Guided Trekking Tours**: Adam's Peak is one of Sri Lanka’s most
+          famous treks. It stands at **2,243 meters (7,359 feet)** and offers a
+          panoramic view of the surrounding landscape. The trek usually begins
+          in the early hours of the morning or at night to catch the stunning
+          sunrise from the top.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
