@@ -147,7 +147,7 @@ sections:
       - content/pages/blog/five-tips-for-starting-a-startup.md
     showThumbnail: true
     showExcerpt: true
-    showDate: true
+    showDate: false
     showAuthor: true
     actions: []
     elementId: ''
