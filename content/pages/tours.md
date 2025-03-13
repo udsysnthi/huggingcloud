@@ -253,10 +253,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-14
+              - pt-16
+              - pl-16
+              - pb-16
+              - pr-16
             borderRadius: x-large
             flexDirection: col
     actions: []
