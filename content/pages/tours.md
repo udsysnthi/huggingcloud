@@ -99,10 +99,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-60
-              - pl-60
-              - pb-60
-              - pr-60
+              - pt-96
+              - pl-96
+              - pb-96
+              - pr-96
             borderRadius: x-large
             flexDirection: col
             margin:
