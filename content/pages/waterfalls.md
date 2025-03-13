@@ -129,70 +129,40 @@ sections:
           self:
             flexDirection: row
         text: >+
-          **Gartmore Falls** is a stunning waterfall located in the **Knucles
-          Mountain Range** in Sri Lanka. The waterfall is known for its scenic
-          beauty and relatively remote location, which makes it a peaceful and
-          less crowded destination compared to other popular waterfalls in Sri
-          Lanka.
+          Gartmore Falls is located in the **Maskeliya** region, close to
+          **Adam's Peak**, The falls are part of the **Maskeliya Oya**, a river
+          that flows through the central highlands. The waterfall stands at
+          about **60 meters (197 feet)**, cascading through lush greenery and
+          rocks, offering a peaceful and picturesque sight.
 
 
-          ### **Key Facts about Gartmore Falls:**
+          *   The falls are not as easily accessible as some other waterfalls in
+          Sri Lanka. Visitors typically need to hike to reach the base of the
+          waterfall, making it a more adventurous destination for those who
+          enjoy trekking.
 
 
-          *   **Location**: Gartmore Falls is situated in the **Knuckles
-          Mountain Range**, which is a UNESCO World Heritage site. It lies near
-          the town of **Meemure**, a remote village known for its untouched
-          natural beauty.
+          *   Surrounded by tea plantations, mist-covered hills, and dense
+          forests, Gartmore Falls offers a serene and untouched natural
+          environment, perfect for photography and nature walks.
 
 
-          *   **Height**: The waterfall is approximately **60 meters (197
-          feet)** high and has multiple cascades, giving it a breathtaking
-          appearance as it flows through the rocky terrain.
+          *   The waterfall is at its most impressive during the rainy season
+          when the water flow is at its peak. However, visiting during the dry
+          season (December to April) is also an option for a more accessible
+          hike.
 
 
-          *   **Access**: Reaching Gartmore Falls requires a bit of adventure.
-          It involves a hike, which typically takes around **30 to 45 minutes**
-          from the nearest road access point. The hike offers spectacular views
-          of the surrounding mountains, forests, and tea plantations.
+          *   Reaching Gartmore Falls requires a short but enjoyable hike,
+          providing stunning views of the surrounding landscapes. The trek is
+          relatively easy and is perfect for nature lovers.
 
 
-          *   **Scenic Beauty**: Surrounded by lush greenery and mist-covered
-          mountains, Gartmore Falls provides a tranquil atmosphere, perfect for
-          nature enthusiasts and photographers.
+          **Gartmore Falls** in **Maskeliya** is a hidden gem for those who want
+          to experience Sri Lanka’s natural beauty and enjoy a quiet, serene
+          atmosphere far from the typical tourist crowds.
 
 
-          ### **Best Time to Visit**:
-
-
-          *   The ideal time to visit is during the **dry season** (from
-          **December to April**) when the weather is more favorable for hiking.
-          However, the falls are most impressive after a rainfall, during the
-          **monsoon season**, as the water flow is at its peak.
-
-
-          ### **Activities**:
-
-
-          *   **Hiking**: The journey to Gartmore Falls involves a short but
-          rewarding hike. It’s a great opportunity to explore the beauty of the
-          Knuckles Mountain Range.
-
-
-          *   **Photography**: The falls, with their multiple cascades and the
-          surrounding lush forests, provide excellent opportunities for nature
-          photography.
-
-
-          *   **Nature Exploration**: The area is rich in biodiversity, making
-          it ideal for bird watching and enjoying the peaceful surroundings.
-
-
-          Gartmore Falls offers a serene experience away from the crowds, and
-          its stunning natural beauty makes it a hidden gem in Sri Lanka's hill
-          country.
-
-
-          Would you like more details on how to get there or nearby attractions?
 
 
 
