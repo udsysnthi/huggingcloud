@@ -114,7 +114,7 @@ sections:
 
       - type: FeaturedItem
         title: Gartmore Waterfall
-        subtitle: $117
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/IMG_0233.jpg
