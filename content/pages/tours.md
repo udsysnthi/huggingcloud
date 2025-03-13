@@ -17,35 +17,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-
-
-          |
-          WATERFALL                                                                                                                                                                                                          
-          | ADAM'S
-          PEAK                                                                                                                                                                                                                                                                                           
-          | NATURE &
-          SCENIC                                                                                                                                                                                                                            
-          |
-
-          |
-          -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-          |
-          ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-          |
-          -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-          |
-
-          | **Waterfalls and Scenic Spots**: The area around Nallathanniya is
+          **Waterfalls and Scenic Spots**: The area around Nallathanniya is
           filled with lush greenery, waterfalls, and panoramic viewpoints,
           providing a great opportunity to explore the beauty of Sri Lanka’s
-          hill country. | **Guided Trekking Tours**: Adam's Peak is one of Sri
-          Lanka’s most famous treks. It stands at **2,243 meters (7,359 feet)**
-          and offers a panoramic view of the surrounding landscape. The trek
-          usually begins in the early hours of the morning or at night to catch
-          the stunning sunrise from the top. | **Hiking & Nature Walks**: For
-          those who want to enjoy the natural beauty without the full trek to
-          Adam’s Peak, Hugging Clouds Day Tours might offer alternative hikes or
-          nature walks through the surrounding forests and tea plantations. |
+          hill country.
 
         image:
           type: ImageBlock
