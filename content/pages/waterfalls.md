@@ -233,7 +233,7 @@ sections:
       subtitle:
         textAlign: center
   - type: DividerSection
-    title: Divider
+    title: ''
     elementId: ''
     colors: bg-light-fg-dark
     styles:
