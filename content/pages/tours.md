@@ -149,6 +149,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/800x750.jpg
 slug: tours
 isDraft: false
 seo:
