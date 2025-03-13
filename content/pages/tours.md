@@ -266,6 +266,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             borderStyle: none
+            borderWidth: 8
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
