@@ -16,34 +16,26 @@ sections:
         subtitle: ''
         text: >+
           **Laxapana Falls** is one of Sri Lanka's tallest and most beautiful
-          waterfalls, located in the central part of the island, near the town
-          of **Hatton** in the Nuwara Eliya District. The waterfall is part of
-          the **Maskeliya Oya** river and cascades from a height of about **126
-          meters** (413 feet), making it the **8th tallest waterfall** in Sri
-          Lanka.
+          waterfalls, The waterfall is situated about **20 km from Hatton** and
+          is easily accessible from the **Colombo-Kandy road** (A1). It’s also
+          near the **Maskeliya** town, famous for its tea plantations. Cascades
+          from a height of about **126 meters** (413 feet), making it the **8th
+          tallest waterfall** in Sri Lanka.
 
 
-          *   **Location**: The waterfall is situated about **20 km from
-          Hatton** and is easily accessible from the **Colombo-Kandy road**
-          (A1). It’s also near the **Maskeliya** town, famous for its tea
-          plantations.
+          *   The waterfall is surrounded by lush greenery, tea plantations, and
+          rolling hills, making it a popular destination for nature lovers and
+          photographers.
 
 
-          *   **Scenic Beauty**: The waterfall is surrounded by lush greenery,
-          tea plantations, and rolling hills, making it a popular destination
-          for nature lovers and photographers.
+          *   The monsoon season (from May to September) is when the waterfall
+          is most impressive, as the rains increase the volume of water flowing
+          down the falls.
 
 
-          *   **Best Time to Visit**: The monsoon season (from May to September)
-          is when the waterfall is most impressive, as the rains increase the
-          volume of water flowing down the falls.
-
-
-          *   **Activities**: Visitors can enjoy a peaceful hike to the base of
-          the waterfall, which offers a cool, refreshing environment, perfect
-          for those looking to experience Sri Lanka's natural beauty.
-
-
+          *   Visitors can enjoy a peaceful hike to the base and top of the
+          waterfall, which offers a cool, refreshing environment, perfect for
+          those looking to experience Sri Lanka's natural beauty.
 
         image:
           type: ImageBlock
