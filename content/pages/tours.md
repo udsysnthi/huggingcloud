@@ -78,7 +78,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: NATURE & SCENIC
+        title: NATURE & SCENIC WALKS
         tagline: ''
         subtitle: ''
         text: >+
