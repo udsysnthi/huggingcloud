@@ -258,7 +258,7 @@ sections:
               - pb-96
               - pr-96
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
             margin:
               - mt-96
               - ml-96
