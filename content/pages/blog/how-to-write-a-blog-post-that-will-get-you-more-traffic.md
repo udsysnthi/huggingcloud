@@ -5,7 +5,7 @@ slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: ''
 excerpt: ''
 featuredImage:
-  url: /images/IMG-20250228-WA0035.jpg
+  url: /images/800x750-14.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
