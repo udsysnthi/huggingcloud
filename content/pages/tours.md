@@ -311,7 +311,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: ALL AROUND THE SRI LANKA
       color: text-dark
       styles:
         self:
