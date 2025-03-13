@@ -68,7 +68,7 @@ sections:
       - type: FeaturedItem
         title: Feature Item Two
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           **Guided Trekking Tours**: Adam's Peak is one of Sri Lanka’s most
           famous treks. It stands at **2,243 meters (7,359 feet)** and offers a
