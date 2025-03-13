@@ -23,7 +23,7 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-### **1. Cultural Triangle Tour**
+### ![](/images/800x750.jpg)**1. Cultural Triangle Tour**
 
 Explore Sri Lanka's ancient history with visits to:
 
@@ -104,8 +104,4 @@ Indulge in Sri Lankan cuisine with local food experiences:
 *   **Colombo**: Fusion cuisine and international food experiences.
 
 ### We arrange the destination as you like and perfect tour plan.
-
-
-
-
 
