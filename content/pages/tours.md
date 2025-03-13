@@ -267,6 +267,11 @@ sections:
             flexDirection: row
             borderStyle: none
             borderWidth: 8
+            margin:
+              - mt-96
+              - ml-96
+              - mb-96
+              - mr-96
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
