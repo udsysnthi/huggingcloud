@@ -148,7 +148,7 @@ sections:
       - type: FeaturedItem
         title: Feature Item Two
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           \*\*\*\*![](https://preview--huggingclouds-82975.stackbit.dev/images/800x750-14.jpg)
 
