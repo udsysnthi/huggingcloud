@@ -115,12 +115,43 @@ sections:
             borderRadius: x-large
             flexDirection: col
             borderStyle: none
+    actions: []
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: ALL AROUND THE SRI LANKA
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    items:
       - type: FeaturedItem
-        title: Around Sri Lanka
-        tagline: ''
+        title: ''
         subtitle: ''
-        text: >+
-          ### **1. Cultural Triangle Tour**
+        text: >
+          ![](/images/800x750-14.jpg)
+
+
+          **1. Cultural Triangle Tour**
 
 
           Explore Sri Lanka's ancient history with visits to:
@@ -243,57 +274,41 @@ sections:
           *   **Colombo**: Fusion cuisine and international food experiences.
 
 
+          #### We arrange the destination and tour plan as you like.
 
 
-          ### We arrange the destination as you like and perfect tour plan.
-
-
-
-
-
-        image:
-          type: ImageBlock
-          url: /images/800x750-14.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
+          Contact us and get your tour plan and enjoy your wonderful holiday in
+          Sri Lanka.
         actions: []
         colors: bg-light-fg-dark
         styles:
           self:
             padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            borderRadius: x-large
-            flexDirection: col
-            margin:
-              - mt-96
-              - ml-96
-              - mb-96
-              - mr-96
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
     actions: []
-    variant: three-col-grid
+    elementId: ''
+    variant: small-list
     colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
         justifyContent: center
       subtitle:
         textAlign: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
 slug: tours
 isDraft: false
 seo:
