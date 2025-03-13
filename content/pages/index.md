@@ -156,7 +156,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Link
-            label: Send
+            label: All Tours
             altText: Send
             url: /tours
             showIcon: true
