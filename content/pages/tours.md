@@ -110,6 +110,7 @@ sections:
               - ml-0
               - mb-0
               - mr-0
+            justifyContent: flex-start
       - type: FeaturedItem
         title: Around Sri Lanka
         tagline: ''
