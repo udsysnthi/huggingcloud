@@ -75,7 +75,16 @@ sections:
           site for people of all faiths and a must-visit for nature lovers and
           adventure seekers.![](/images/Adams_Peak_in_Sri_Lanka.jpg)</div>
 
-        actions: []
+        actions:
+          - type: Link
+            label: Send
+            altText: Send
+            url: /adam's
+            showIcon: true
+            icon: send
+            iconPosition: right
+            style: secondary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
