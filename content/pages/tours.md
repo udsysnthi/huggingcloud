@@ -66,7 +66,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: ADAM'S PEAK
         tagline: This is the tagline
         subtitle: ''
         text: >+
