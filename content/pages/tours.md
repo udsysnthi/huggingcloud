@@ -80,7 +80,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/caption (3).jpg
           altText: Placeholder image
           styles:
             self:
