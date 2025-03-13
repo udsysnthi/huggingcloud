@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: HUGGING CLOUDS TOURS
+      text: HUGGING CLOUDS DAYTOURS
       color: text-primary
       styles:
         self:
