@@ -259,10 +259,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-16
-              - pl-16
-              - pb-16
-              - pr-16
+              - pt-32
+              - pl-32
+              - pb-32
+              - pr-32
             borderRadius: x-large
             flexDirection: row
             borderStyle: none
