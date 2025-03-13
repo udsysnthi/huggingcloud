@@ -149,7 +149,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/IMG-20250228-WA0035.jpg
 slug: tours
 isDraft: false
 seo:
