@@ -82,6 +82,36 @@ sections:
         styles:
           self:
             flexDirection: row
+        text: >+
+          **Moray Waterfalls**, also known as **Sri Pada Falls**, is a beautiful
+          waterfall located in the central region of Sri Lanka, near the famous
+          **Adam's Peak (Sri Pada)**. The waterfall is situated in **10 km from
+          the town of Maskeliya**,
+
+
+
+          *   The Moray Waterfall cascades from a height of around **55 meters**
+          (180 feet), making it a relatively moderate-sized waterfall. The
+          waterfall is also known as **Sri Pada Falls**, named after the famous
+          **Sri Pada** mountain.
+
+
+          *   The falls are surrounded by picturesque landscapes, including tea
+          plantations, forests, and the mist-covered mountains. It’s a peaceful
+          spot, perfect for nature lovers and photographers.
+
+
+          *   You can take a short hike to reach the base of the waterfall from
+          the nearby roads. The journey offers beautiful views of the
+          surrounding greenery.
+
+
+          Moray Waterfalls (Sri Pada Falls) is a hidden gem that offers
+          tranquility and natural beauty, especially if you're already in the
+          region to explore Adam's Peak.
+
+
+
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
