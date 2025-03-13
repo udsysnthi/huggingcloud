@@ -52,7 +52,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Adams_Peak_in_Sri_Lanka.jpg
+          url: /images/adams-peak-in-1-day.webp
           altText: Placeholder image
           styles:
             self:
