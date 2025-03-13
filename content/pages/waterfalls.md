@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: WATER FALLS
+      text: DAY TOUR WATER FALLS
       color: text-dark
       styles:
         self:
