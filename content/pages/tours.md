@@ -272,7 +272,7 @@ sections:
               - ml-0
               - mb-0
               - mr-0
-            justifyContent: center
+            justifyContent: flex-end
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
