@@ -321,6 +321,7 @@ sections:
         title: ''
         subtitle: ''
         text: >+
+          ****![](/images/800x750-14.jpg)
 
 
           **1. Cultural Triangle Tour**
@@ -447,8 +448,6 @@ sections:
 
 
           ### We arrange the destination as you like and perfect tour plan.
-
-
 
         actions: []
         colors: bg-light-fg-dark
