@@ -500,7 +500,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Button
-        label: Get started
+        label: Instagram
         altText: ''
         url: /
         showIcon: false
