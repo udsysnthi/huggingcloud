@@ -494,7 +494,7 @@ sections:
       You can also find us on social medias as well.
     actions:
       - type: Button
-        label: Get started
+        label: Facebook
         url: /
         icon: arrowRight
         iconPosition: right
