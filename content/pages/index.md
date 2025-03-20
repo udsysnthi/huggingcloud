@@ -502,7 +502,7 @@ sections:
       - type: Button
         label: Instagram
         altText: ''
-        url: /
+        url: '/https://www.instagram.com/hugging_clouds_guest/?hl=en'
         showIcon: false
         icon: arrowRight
         iconPosition: right
