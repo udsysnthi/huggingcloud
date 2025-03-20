@@ -485,7 +485,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: 'Contact For More Details '
+      text: For More Details
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
