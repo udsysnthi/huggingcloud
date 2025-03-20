@@ -484,65 +484,42 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Generic Section With A Form
-      color: text-dark
+  - type: GenericSection
+    title:
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
+      text: Social Media
+      color: text-dark
+    subtitle: ''
+    text: |
+      You can also find us on social medias as well.
+    actions:
+      - type: Button
+        label: Facebook
+        url: '/https://www.facebook.com/Huggingguest/'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Button
+        label: Instagram
+        altText: ''
+        url: '/https://www.instagram.com/hugging_clouds_guest/?hl=en'
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
-        elementId: null
+        style: secondary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/IMG-20250228-WA0035.jpg
+      altText: Fun feature preview
     badge:
-      label: Contact Us
-      color: text-primary
       type: Badge
+      label: 'HUGGING CLOUDS '
+      color: text-primary
     colors: bg-light-fg-dark
-    type: GenericSection
+    styles:
+      self:
+        alignItems: center
 seo:
   metaTitle: 'Home '
   metaDescription: Hugging Clouds
