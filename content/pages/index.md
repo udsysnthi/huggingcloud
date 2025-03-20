@@ -490,9 +490,8 @@ sections:
       text: Social Media
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      You can also find us on social medias as well.
     actions:
       - type: Button
         label: Get started
