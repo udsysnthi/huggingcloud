@@ -510,7 +510,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/IMG-20250228-WA0035.jpg
       altText: Fun feature preview
     badge:
       type: Badge
