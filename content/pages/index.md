@@ -495,7 +495,7 @@ sections:
     actions:
       - type: Button
         label: Facebook
-        url: '/https://www.facebook.com/Huggingguest/'
+        url: 'https://www.facebook.com/Huggingguest/'
         icon: arrowRight
         iconPosition: right
         style: secondary
