@@ -558,6 +558,7 @@ sections:
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
