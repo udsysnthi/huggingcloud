@@ -53,7 +53,7 @@
     "secondaryLinks": [
         {
             "label": "Book Now",
-            "url": "/",
+            "url": "https://www.booking.com/hotel/lk/hugging-clouds.en-gb.html?aid800999",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
