@@ -29,7 +29,7 @@
                 "type": "Link",
                 "label": "Send email",
                 "altText": "Play",
-                "url": "/https://docs.google.com/forms",
+                "url": "",
                 "showIcon": true,
                 "icon": "mail",
                 "iconPosition": "right",
