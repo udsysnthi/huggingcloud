@@ -26,6 +26,17 @@
                 "type": "Link"
             },
             {
+                "type": "Link",
+                "label": "Send email",
+                "altText": "Play",
+                "url": "/https://docs.google.com/forms/d/e/1FAIpQLSd8A2WqnvjhpWEtMHGIQ1UzTmsZXLBAg5rFg6kjaKmITjTpDQ/viewform?usp=header",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
                 "label": "22070, Hugging Clouds Guest, Adam's Peak, Nallathanniya, Sri Lanka",
                 "url": "",
                 "icon": "arrowRight",
