@@ -4,87 +4,50 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Stylish Guest & Restaurant \n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Contact us ",
         "links": [
             {
-                "label": "Features",
+                "label": "+94721826333",
                 "altText": "Features page",
-                "url": "/",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "+94776865392",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
+                "type": "Link",
+                "label": "huggingcloudsguest@gmail.com",
+                "altText": "Play",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSd8A2WqnvjhpWEtMHGIQ1UzTmsZXLBAg5rFg6kjaKmITjTpDQ/viewform?usp=header",
+                "showIcon": true,
+                "icon": "mail",
                 "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "label": "22070, Hugging Clouds Guest, Adam's Peak, Nallathanniya, Sri Lanka",
+                "url": "",
+                "icon": "arrowRight",
+                "iconPosition": "left",
                 "style": "secondary",
                 "type": "Link"
             }
         ],
         "type": "FooterLinksGroup"
     },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",

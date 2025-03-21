@@ -40,9 +40,9 @@
         },
         {
             "type": "Link",
-            "label": "CONTACT",
-            "altText": "CONTACT",
-            "url": "/contact",
+            "label": "ADAM'S PEAK",
+            "altText": "",
+            "url": "/adam's",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -52,8 +52,8 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Log in",
-            "url": "/",
+            "label": "Book Now",
+            "url": "https://www.booking.com/hotel/lk/hugging-clouds.en-gb.html?aid800999",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",

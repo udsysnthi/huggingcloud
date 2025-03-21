@@ -495,14 +495,14 @@ sections:
     actions:
       - type: Button
         label: Facebook
-        url: '/https://www.facebook.com/Huggingguest/'
+        url: 'https://www.facebook.com/Huggingguest/'
         icon: arrowRight
         iconPosition: right
         style: secondary
       - type: Button
         label: Instagram
         altText: ''
-        url: '/https://www.instagram.com/hugging_clouds_guest/?hl=en'
+        url: 'https://www.instagram.com/hugging_clouds_guest/?hl=en'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -523,57 +523,21 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Send your questions
       color: text-dark
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
+    subtitle: ''
+    text: ''
+    actions:
+      - type: Button
+        label: Contact
+        altText: ''
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSd8A2WqnvjhpWEtMHGIQ1UzTmsZXLBAg5rFg6kjaKmITjTpDQ/viewform?usp=header
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
+        style: secondary
+        elementId: ''
     badge:
       type: Badge
       label: Contact Us
