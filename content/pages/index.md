@@ -529,7 +529,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Get started
+        label: Contact
         altText: ''
         url: >-
           https://docs.google.com/forms/d/e/1FAIpQLSd8A2WqnvjhpWEtMHGIQ1UzTmsZXLBAg5rFg6kjaKmITjTpDQ/viewform?usp=header
