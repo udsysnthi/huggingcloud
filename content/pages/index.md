@@ -542,7 +542,7 @@ sections:
       type: Badge
       label: Contact Us
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
 seo:
   metaTitle: 'Home '
   metaDescription: Hugging Clouds
