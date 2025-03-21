@@ -41,7 +41,7 @@
         {
             "type": "Link",
             "label": "CONTACT",
-            "altText": "CONTACT",
+            "altText": "",
             "url": "/adam's",
             "showIcon": false,
             "icon": "arrowRight",
