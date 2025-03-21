@@ -42,7 +42,7 @@
             "type": "Link",
             "label": "CONTACT",
             "altText": "CONTACT",
-            "url": "/contact",
+            "url": "/footer",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
