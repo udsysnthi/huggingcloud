@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: waterfall
+title: about
 sections:
   - type: GenericSection
     title:
