@@ -546,7 +546,7 @@ sections:
 seo:
   metaTitle: 'Home '
   metaDescription: Hugging Clouds
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/IMG-20250228-WA0035.jpg
   type: Seo
 type: PageLayout
 ---
