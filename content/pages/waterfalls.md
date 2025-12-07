@@ -23,17 +23,17 @@ sections:
           tallest waterfall** in Sri Lanka.
 
 
-          *   The waterfall is surrounded by lush greenery, tea plantations, and
+          *   The waterfall is surrounded by lush greenery, tea plantations, and
           rolling hills, making it a popular destination for nature lovers and
           photographers.
 
 
-          *   The monsoon season (from May to September) is when the waterfall
+          *   The monsoon season (from May to September) is when the waterfall
           is most impressive, as the rains increase the volume of water flowing
           down the falls.
 
 
-          *   Visitors can enjoy a peaceful hike to the base and top of the
+          *   Visitors can enjoy a peaceful hike to the base and top of the
           waterfall, which offers a cool, refreshing environment, perfect for
           those looking to experience Sri Lanka's natural beauty.
 
@@ -90,18 +90,18 @@ sections:
 
 
 
-          *   The Moray Waterfall cascades from a height of around **55 meters**
+          *   The Moray Waterfall cascades from a height of around **55 meters**
           (180 feet), making it a relatively moderate-sized waterfall. The
           waterfall is also known as **Sri Pada Falls**, named after the famous
           **Sri Pada** mountain.
 
 
-          *   The falls are surrounded by picturesque landscapes, including tea
+          *   The falls are surrounded by picturesque landscapes, including tea
           plantations, forests, and the mist-covered mountains. It’s a peaceful
           spot, perfect for nature lovers and photographers.
 
 
-          *   You can take a short hike to reach the base of the waterfall from
+          *   You can take a short hike to reach the base of the waterfall from
           the nearby roads. The journey offers beautiful views of the
           surrounding greenery.
 
@@ -136,24 +136,24 @@ sections:
           rocks, offering a peaceful and picturesque sight.
 
 
-          *   The falls are not as easily accessible as some other waterfalls in
+          *   The falls are not as easily accessible as some other waterfalls in
           Sri Lanka. Visitors typically need to hike to reach the base of the
           waterfall, making it a more adventurous destination for those who
           enjoy trekking.
 
 
-          *   Surrounded by tea plantations, mist-covered hills, and dense
+          *   Surrounded by tea plantations, mist-covered hills, and dense
           forests, Gartmore Falls offers a serene and untouched natural
           environment, perfect for photography and nature walks.
 
 
-          *   The waterfall is at its most impressive during the rainy season
+          *   The waterfall is at its most impressive during the rainy season
           when the water flow is at its peak. However, visiting during the dry
           season (December to April) is also an option for a more accessible
           hike.
 
 
-          *   Reaching Gartmore Falls requires a short but enjoyable hike,
+          *   Reaching Gartmore Falls requires a short but enjoyable hike,
           providing stunning views of the surrounding landscapes. The trek is
           relatively easy and is perfect for nature lovers.
 
@@ -172,26 +172,26 @@ sections:
         text: >+
           **Aberdeen Waterfall** is one of Sri Lanka's most stunning waterfalls,
           situated about **26 km from Nuwara Eliya** and approximately **8 km
-          from Ginigathena**, along the **Kothmale Oya** (river).  Aberdeen
+          from Ginigathena**, along the **Kothmale Oya** (river).  Aberdeen
           Falls has a height of around **98 meters (322 feet)**, making it a
           moderately tall waterfall with multiple cascades, creating a
           spectacular sight as it flows down the mountainside.
 
 
-          *   The waterfall is surrounded by lush greenery, tea plantations, and
+          *   The waterfall is surrounded by lush greenery, tea plantations, and
           mist-covered mountains, providing a serene and picturesque setting.
           The area is peaceful, making it a perfect spot for photography and
           relaxation.
 
 
-          *   The ideal time to visit is during the **dry season** (from
+          *   The ideal time to visit is during the **dry season** (from
           **December to April**) for more comfortable access to the waterfall.
           However, the waterfall is most impressive after rainfall, during the
           **monsoon season** (May to September), when the water flow is at its
           peak.
 
 
-          *   The region is rich in biodiversity, with opportunities for
+          *   The region is rich in biodiversity, with opportunities for
           birdwatching and exploring the surrounding forests and tea estates.
 
 
@@ -232,6 +232,42 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+
+  # =========================================================================
+  # 💰 ADSENSE AD UNIT SECTION 💰
+  # NOTE: Ensure the main AdSense script is in your page's <head> section.
+  # Replace 'ca-pub-2167903061591750' and '9999999999' with your actual IDs.
+  # =========================================================================
+  - type: GenericSection
+    title: null
+    subtitle: ''
+    text: >+
+      <div style="text-align: center; margin: 30px 0;">
+        <ins class="adsbygoogle"
+             style="display:block; text-align:center;"
+             data-ad-layout="in-article"
+             data-ad-format="fluid"
+             data-ad-client="ca-pub-2167903061591750"
+             data-ad-slot="9999999999"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+    actions: []
+    media: null
+    elementId: ad-unit-3
+    colors: bg-neutral-fg-dark 
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-8
+        justifyContent: center
+        flexDirection: row
+  # =========================================================================
+  # ⬆️ END OF NEW ADSENSE AD UNIT SECTION ⬆️
+  # =========================================================================
+  
   - type: DividerSection
     title: contact for more details
     elementId: ''
