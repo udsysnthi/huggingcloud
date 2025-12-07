@@ -23,20 +23,20 @@ sections:
       and forests, making it an ideal spot for nature lovers.</div>
 
 
-      <div style="text-align: left">*   ***Accommodation**: We provides simple,
+      <div style="text-align: left">*   ***Accommodation**: We provides simple,
       clean, and comfortable rooms. The accommodation options are often basic
       but cozy, with modern amenities to ensure a comfortable stay. Rooms often
       have large windows with beautiful views of the surrounding scenery, which
       adds to the charm of staying here.*
 
-      *   ***Hospitality & Service**: The staff at Hugging Clouds is known for
+      *   ***Hospitality & Service**: The staff at Hugging Clouds is known for
       being friendly and welcoming. They typically provide guests with useful
       information about the Adam's Peak trek, including the best time to start
       the hike and what to expect along the way. also hugging clouds offers
       meals, and many guests recommend trying the home-cooked food, which is a
       great way to experience local Sri Lankan flavors.*
 
-      *   ***Booking & Availability**: Since Hugging Clouds is a small
+      *   ***Booking & Availability**: Since Hugging Clouds is a small
       guesthouse, it’s often advisable to book in advance, especially during
       peak pilgrimage seasons (typically from December to May).*</div>
 
@@ -61,6 +61,42 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+
+  # =========================================================================
+  # 💰 ADSENSE AD UNIT SECTION 💰
+  # NOTE: Ensure the main AdSense script is in your page's <head> section.
+  # Replace 'ca-pub-2167903061591750' and '9999999999' with your actual IDs.
+  # =========================================================================
+  - type: GenericSection
+    title: null
+    subtitle: ''
+    text: >+
+      <div style="text-align: center; margin: 30px 0;">
+        <ins class="adsbygoogle"
+             style="display:block; text-align:center;"
+             data-ad-layout="in-article"
+             data-ad-format="fluid"
+             data-ad-client="ca-pub-2167903061591750"
+             data-ad-slot="9999999999"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+    actions: []
+    media: null
+    elementId: ad-unit-5
+    colors: bg-neutral-fg-dark 
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pb-16
+        justifyContent: center
+        flexDirection: row
+  # =========================================================================
+  # ⬆️ END OF NEW ADSENSE AD UNIT SECTION ⬆️
+  # =========================================================================
+
 slug: /about
 seo:
   type: Seo
