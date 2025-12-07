@@ -1,7 +1,7 @@
 ---
-title: Home
 <head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2167903061591750"
      crossorigin="anonymous"></script></head>
+title: Home
 slug: /home
 sections:
   - type: GenericSection
