@@ -135,6 +135,42 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+
+  # =========================================================================
+  # 💰 ADSENSE AD UNIT SECTION 💰
+  # NOTE: Ensure the main AdSense script is in your page's <head> section.
+  # Also, replace '9999999999' with your actual 10-digit Ad Slot ID.
+  # =========================================================================
+  - type: GenericSection
+    title: null
+    subtitle: ''
+    text: >+
+      <div style="text-align: center; margin: 30px 0;">
+        <ins class="adsbygoogle"
+             style="display:block; text-align:center;"
+             data-ad-layout="in-article"
+             data-ad-format="fluid"
+             data-ad-client="ca-pub-2167903061591750"
+             data-ad-slot="9999999999"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+    actions: []
+    media: null
+    elementId: ad-unit-2
+    colors: bg-neutral-fg-dark 
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-8
+        justifyContent: center
+        flexDirection: row
+  # =========================================================================
+  # ⬆️ END OF NEW ADSENSE AD UNIT SECTION ⬆️
+  # =========================================================================
+
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -157,17 +193,17 @@ sections:
           Explore Sri Lanka's ancient history with visits to:
 
 
-          *   **Anuradhapura**: Ancient ruins and sacred sites.
+          *   **Anuradhapura**: Ancient ruins and sacred sites.
 
 
-          *   **Polonnaruwa**: Historical city with well-preserved temples and
+          *   **Polonnaruwa**: Historical city with well-preserved temples and
           statues.
 
 
-          *   **Sigiriya**: Iconic rock fortress offering panoramic views.
+          *   **Sigiriya**: Iconic rock fortress offering panoramic views.
 
 
-          *   **Dambulla**: Famous cave temples with Buddha statues.
+          *   **Dambulla**: Famous cave temples with Buddha statues.
 
 
           ### **2. Hill Country & Tea Plantations**
@@ -176,13 +212,13 @@ sections:
           Discover the scenic beauty of Sri Lanka's hill country:
 
 
-          *   **Kandy**: Cultural capital, home to the Temple of the Tooth.
+          *   **Kandy**: Cultural capital, home to the Temple of the Tooth.
 
 
-          *   **Nuwara Eliya**: Tea estates and colonial charm.
+          *   **Nuwara Eliya**: Tea estates and colonial charm.
 
 
-          *   **Ella**: Beautiful viewpoints, waterfalls, and hiking trails.
+          *   **Ella**: Beautiful viewpoints, waterfalls, and hiking trails.
 
 
           ### **3. Southern Beaches Tour**
@@ -191,13 +227,13 @@ sections:
           Relax on stunning beaches and explore coastal gems:
 
 
-          *   **Mirissa**: Whale watching and peaceful beaches.
+          *   **Mirissa**: Whale watching and peaceful beaches.
 
 
-          *   **Galle**: Colonial architecture and the historic Galle Fort.
+          *   **Galle**: Colonial architecture and the historic Galle Fort.
 
 
-          *   **Unawatuna**: Golden beaches and clear waters.
+          *   **Unawatuna**: Golden beaches and clear waters.
 
 
           ### **4. Wildlife Safari Tour**
@@ -206,13 +242,13 @@ sections:
           Experience Sri Lanka's rich wildlife in top national parks:
 
 
-          *   **Yala**: Known for leopards and diverse wildlife.
+          *   **Yala**: Known for leopards and diverse wildlife.
 
 
-          *   **Udawalawe**: Famous for elephants.
+          *   **Udawalawe**: Famous for elephants.
 
 
-          *   **Wilpattu**: Offers sightings of leopards and sloth bears.
+          *   **Wilpattu**: Offers sightings of leopards and sloth bears.
 
 
           ### **5. Coastal & Adventure Tour**
@@ -221,13 +257,13 @@ sections:
           Combine adventure and relaxation along Sri Lanka’s coast:
 
 
-          *   **Negombo**: Beach town near Colombo.
+          *   **Negombo**: Beach town near Colombo.
 
 
-          *   **Bentota**: Water sports and river boat rides.
+          *   **Bentota**: Water sports and river boat rides.
 
 
-          *   **Hikkaduwa**: Snorkeling, diving, and vibrant coral reefs.
+          *   **Hikkaduwa**: Snorkeling, diving, and vibrant coral reefs.
 
 
           ### **6. Colombo & Western Tour**
@@ -236,11 +272,11 @@ sections:
           Explore the capital and surrounding areas:
 
 
-          *   **Colombo**: City attractions like Galle Face Green and
+          *   **Colombo**: City attractions like Galle Face Green and
           Gangaramaya Temple.
 
 
-          *   **Negombo**: Colonial-style beach town.
+          *   **Negombo**: Colonial-style beach town.
 
 
           ### **7. Central Highlands & Adventure Tour**
@@ -249,13 +285,13 @@ sections:
           Trek through Sri Lanka’s highlands and nature reserves:
 
 
-          *   **Horton Plains**: Famous **World’s End** viewpoint.
+          *   **Horton Plains**: Famous **World’s End** viewpoint.
 
 
-          *   **Adams Peak**: Sacred mountain with a sunrise hike.
+          *   **Adams Peak**: Sacred mountain with a sunrise hike.
 
 
-          *   **Knuckles Range**: Biodiverse mountains with trekking
+          *   **Knuckles Range**: Biodiverse mountains with trekking
           opportunities.
 
 
@@ -265,13 +301,13 @@ sections:
           Indulge in Sri Lankan cuisine with local food experiences:
 
 
-          *   **Galle**: Seafood and street food.
+          *   **Galle**: Seafood and street food.
 
 
-          *   **Kandy**: Regional dishes like hoppers and curries.
+          *   **Kandy**: Regional dishes like hoppers and curries.
 
 
-          *   **Colombo**: Fusion cuisine and international food experiences.
+          *   **Colombo**: Fusion cuisine and international food experiences.
 
 
           #### We arrange the destination and tour plan as you like.
