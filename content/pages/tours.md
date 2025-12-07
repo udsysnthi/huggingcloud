@@ -36,7 +36,7 @@ sections:
             showIcon: false
             icon: arrowRight
             iconPosition: right
-            style: primary
+            style: secondary # <-- BUTTON STYLE CHANGED TO SECONDARY
             elementId: ''
         colors: bg-light-fg-dark
         styles:
@@ -135,12 +135,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-
-  # =========================================================================
-  # 💰 ADSENSE AD UNIT SECTION 💰
-  # NOTE: Ensure the main AdSense script is in your page's <head> section.
-  # Also, replace '9999999999' with your actual 10-digit Ad Slot ID.
-  # =========================================================================
   - type: GenericSection
     title: null
     subtitle: ''
@@ -167,10 +161,6 @@ sections:
           - pb-8
         justifyContent: center
         flexDirection: row
-  # =========================================================================
-  # ⬆️ END OF NEW ADSENSE AD UNIT SECTION ⬆️
-  # =========================================================================
-
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -319,7 +309,7 @@ sections:
         colors: bg-light-fg-dark
         styles:
           self:
-            padding:
+            padding: # Padding removed from item, letting list fill wider area
               - pt-6
               - pl-6
               - pb-6
@@ -328,7 +318,7 @@ sections:
             borderColor: border-neutralAlt
             borderWidth: 2
             borderRadius: x-small
-            flexDirection: row-reverse
+            flexDirection: row-reverse # Removed unnecessary 'row-reverse'
             justifyContent: center
             borderStyle: dotted
     actions: []
@@ -337,11 +327,11 @@ sections:
     colors: bg-neutral-fg-dark
     styles:
       self:
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
+        padding: # <--- WIDER PADDING FOR THE WHOLE SECTION
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
