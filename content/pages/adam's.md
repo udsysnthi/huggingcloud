@@ -92,21 +92,21 @@ sections:
           to:
 
 
-          *   **Buddhism**: Buddhists believe the footprint is that of **Lord
+          *   **Buddhism**: Buddhists believe the footprint is that of **Lord
           Buddha**. According to legend, Buddha visited Sri Lanka in ancient
           times, and the footprint is said to mark the place where he stood
           during his visit. It symbolizes his sacred presence in the island and
           is one of the most revered sites in Sri Lankan Buddhism.
 
 
-          *   **Hinduism**: Hindus believe the footprint is that of **Lord
+          *   **Hinduism**: Hindus believe the footprint is that of **Lord
           Shiva**, who is said to have left the mark when he visited the island.
           The mountain is known as **Shivanolipada** in Tamil, which translates
           to "the place of Shiva's footprint." Some Hindu legends also associate
           the mountain with the story of **King Ravana** from the epic Ramayana.
 
 
-          *   **Christianity & Islam**: Christian and Muslim traditions also
+          *   **Christianity & Islam**: Christian and Muslim traditions also
           have their own interpretations of the sacred footprint. Some Christian
           accounts claim it is the footprint of **Adam**, the first man, who is
           believed to have stood at the summit after being banished from the
@@ -172,13 +172,13 @@ sections:
           participate in special religious observances, such as:
 
 
-          *   **Lighting lamps** along the trail.
+          *   **Lighting lamps** along the trail.
 
 
-          *   **Chanting prayers** and **meditating** during the climb.
+          *   **Chanting prayers** and **meditating** during the climb.
 
 
-          *   **Celebrating full moon poya days**, with special events and
+          *   **Celebrating full moon poya days**, with special events and
           ceremonies at the summit and along the path.
 
 
@@ -229,6 +229,42 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+
+  # =========================================================================
+  # 💰 ADSENSE AD UNIT SECTION 💰
+  # NOTE: Ensure the main AdSense script is in your page's <head> section.
+  # Replace 'ca-pub-2167903061591750' and '9999999999' with your actual IDs.
+  # =========================================================================
+  - type: GenericSection
+    title: null
+    subtitle: ''
+    text: >+
+      <div style="text-align: center; margin: 30px 0;">
+        <ins class="adsbygoogle"
+             style="display:block; text-align:center;"
+             data-ad-layout="in-article"
+             data-ad-format="fluid"
+             data-ad-client="ca-pub-2167903061591750"
+             data-ad-slot="9999999999"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+    actions: []
+    media: null
+    elementId: ad-unit-4
+    colors: bg-neutral-fg-dark 
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pb-16
+        justifyContent: center
+        flexDirection: row
+  # =========================================================================
+  # ⬆️ END OF NEW ADSENSE AD UNIT SECTION ⬆️
+  # =========================================================================
+  
 slug: adam's
 isDraft: false
 seo:
