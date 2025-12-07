@@ -81,7 +81,7 @@ sections:
             altText: Send
             url: /adam's
             showIcon: true
-            icon: send
+            icon: arrowRight
             iconPosition: right
             style: secondary
             elementId: ''
