@@ -24,7 +24,7 @@ sections:
       - label: Book Now
         altText: ''
         url: >-
-          /https://www.booking.com/hotel/lk/hugging-clouds.en-gb.html?aid=356980&label=gog235jc-1FCAsohQFCDmh1Z2dpbmctY2xvdWRzSDNYA2jJAYgBAZgBCbgBF8gBDNgBAegBAfgBDIgCAagCA7gCooChvQbAAgHSAiQxYTNkOWQ0Mi0zMmI1LTRkNmYtOTBlYy0yN2NhMGE2MWYyYTjYAgbgAgE&sid=0ac8f8703963448158a7581d86f98c5d&dest_id=900052927&dest_type=city&dist=0&group_adults=1&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=1&req_children=0&room1=A&sb_price_type=total&sr_order=popularity&srepoch=1739079728&srpvid=adca2812ec990259&type=total&ucfs=1&
+          https://www.booking.com/hotel/lk/hugging-clouds.en-gb.html?aid=356980&label=gog235jc-1FCAsohQFCDmh1Z2dpbmctY2xvdWRzSDNYA2jJAYgBAZgBCbgBF8gBDNgBAegBAfgBDIgCAagCA7gCooChvQbAAgHSAiQxYTNkOWQ0Mi0zMmI1LTRkNmYtOTBlYy0yN2NhMGE2MWYyYTjYAgbgAgE&sid=0ac8f8703963448158a7581d86f98c5d&dest_id=900052927&dest_type=city&dist=0&group_adults=1&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=1&req_children=0&room1=A&sb_price_type=total&sr_order=popularity&srepoch=1739079728&srpvid=adca2812ec990259&type=total&ucfs=1&
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -56,6 +56,42 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+
+  # =========================================================================
+  # 💰 ADSENSE AD UNIT SECTION 💰
+  # NOTE: Ensure the main AdSense script is in your page's <head> section.
+  # Also, replace '9999999999' with your actual 10-digit Ad Slot ID.
+  # =========================================================================
+  - type: GenericSection
+    title: null
+    subtitle: ''
+    text: >+
+      <div style="text-align: center; margin: 30px 0;">
+        <ins class="adsbygoogle"
+             style="display:block; text-align:center;"
+             data-ad-layout="in-article"
+             data-ad-format="fluid"
+             data-ad-client="ca-pub-2167903061591750"
+             data-ad-slot="9999999999"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+    actions: []
+    media: null
+    elementId: ad-unit-1
+    colors: bg-neutral-fg-dark 
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-8
+        justifyContent: center
+        flexDirection: row
+  # =========================================================================
+  # ⬆️ END OF NEW ADSENSE AD UNIT SECTION ⬆️
+  # =========================================================================
+
   - type: FeaturedItemsSection
     title:
       text: Hugging Clouds
@@ -89,13 +125,13 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
+          image:
+            type: ImageBlock
+            altText: Lightning bolt symbol on red background
+            elementId: ''
+            styles:
+              self:
+                borderRadius: x-large
       - title: Guest Rooms
         subtitle: ''
         text: >+
